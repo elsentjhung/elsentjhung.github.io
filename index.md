@@ -1,5 +1,7 @@
-## Welcome to my webpags
+# Hello
 
-look up my beautiful drawing of damtp :)
+## This is Elsen's homepage
+
+in the mean time look up my drawing of damtp :)
 ![Image](https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/damtp.jpg)
 
