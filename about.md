@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-__PhD student__
+__Research Associate__
 
 Supervisor: [Prof. Michael E. Cates] <br/> 
 Group: [Soft Matter Group] 
