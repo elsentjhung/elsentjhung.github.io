@@ -6,8 +6,7 @@ permalink: /about/
 
 __Research Associate__
 
-Supervisor: [Prof. Michael E. Cates] <br/> 
-Group: [Soft Matter Group] 
+I'm in [Prof. Michael E. Cates]'s [Soft Matter Group]  <br/> 
 
 
 [Department of Applied Maths and Theoretical Physics], <br/>
