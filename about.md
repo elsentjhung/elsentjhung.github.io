@@ -6,7 +6,7 @@ permalink: /about/
 
 __Research Associate__
 
-I'm in [Prof. Michael E. Cates]'s [Soft Matter Group] 
+Hello my name is Elsen. I'm postdoc in [Prof. Michael E. Cates]'s [Soft Matter Group].
 
 [Department of Applied Maths and Theoretical Physics], <br/>
 Centre of Mathematical Sciences, <br/>
