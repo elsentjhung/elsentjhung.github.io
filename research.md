@@ -12,4 +12,7 @@ I use lattice Boltzmann simulation for fluid dynamics.
 
 For example, non-equilibrium Cahn-Hiliard equation can give rise to a perpetual boiling droplet.
 
+<img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/boiling-droplet.jpg" alt="drawing" width="1200"/>
+
+
 
