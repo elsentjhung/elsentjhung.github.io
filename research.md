@@ -24,6 +24,8 @@ But now suppose we pay half the people 5€ each to walk backwards. They now bec
 
 ## Active field theories
 
+So we are already familiar with the Cahn-Hiliard equation $\phi$
+
 For example, non-equilibrium Cahn-Hiliard equation can give rise to a perpetual boiling droplet.
 
 <img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/boiling-droplet.jpg" alt="drawing" width="1200"/>
