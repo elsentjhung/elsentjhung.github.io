@@ -21,6 +21,9 @@ But now suppose we pay half the people 5€ each to walk backwards. They now bec
 <img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/people2.png" alt="drawing" width="800"/>
 
 
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 
 ## Active field theories
 
