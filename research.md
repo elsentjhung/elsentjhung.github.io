@@ -4,6 +4,9 @@ title: Research
 permalink: /research/
 ---
 
+<!-- MathJax -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
 Current research interests: time reversal symmetry breaking in statistical field theory, active droplets, chiral liquid crystals, glasses, _etc_.
 
 I use lattice Boltzmann simulation for fluid dynamics.
@@ -19,12 +22,6 @@ We say that a system is in equilibrium if it respects time reversal symmetry (TR
 But now suppose we pay half the people 5€ each to walk backwards. They now become an equilibrium system because if we watch the movie backwards they look exactly the same
 
 <img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/people2.png" alt="drawing" width="800"/>
-
-
-{% if site.mathjax == true %}
-<!-- MathJax -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-{% endif %}
 
 ## Active field theories
 
