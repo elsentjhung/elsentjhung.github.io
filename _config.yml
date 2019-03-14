@@ -28,6 +28,11 @@ kramdown:
 theme: minima
 plugins:
   - jekyll-feed
+  
+<!-- Mathjax Support -->
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
