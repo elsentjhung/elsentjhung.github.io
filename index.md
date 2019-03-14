@@ -3,6 +3,6 @@
 
 ## This is Elsen's homepage
 
-in the mean time look up my drawing of damtp :)
+My office is in Pavilion G, Centre for Mathematical Sciences, University of Cambridge
 ![Image](https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/damtp.jpg)
 
