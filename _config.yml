@@ -23,6 +23,8 @@ github_username: elsentjhung
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
 theme: minima
 plugins:
   - jekyll-feed
