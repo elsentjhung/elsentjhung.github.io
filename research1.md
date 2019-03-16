@@ -40,6 +40,6 @@ If we start from the same intial configuration, we see similar phenomena where t
 
 Some testimonial about my research:
 
-<img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/testimonial.jpeg" alt="drawing" width="200"/>
+<img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/testimonial.jpeg" alt="drawing" width="300"/>
 
 
