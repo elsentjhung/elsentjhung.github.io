@@ -34,6 +34,6 @@ If we start from the same intial configuration, we see similar phenomena where t
 
 <img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/AMB+.png" alt="drawing" width="1200"/>
 
-<video src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/boiling-droplet.mov" controls="controls" width="800" height="600" />
+<video src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/boiling-droplet.mov" controls="controls" width="480" height="480" />
 
 
