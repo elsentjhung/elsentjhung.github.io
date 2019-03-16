@@ -24,7 +24,7 @@ Probably we are familiar with the Cahn-Hiliard equation:
 
 This equation describes full phase separation into low density (vapour) and high density phase (liquid). For example, suppose initially at time _t = 0_, the density is uniform everywhere. Then as time increases, liquid droplets are nucleated and coarsen with time. In steady state _t = ∞_, we end up with a single big drop of liquid.
 
-<img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/MB.jpeg" alt="drawing" width="1200"/>
+<img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/MB.png" alt="drawing" width="1200"/>
 
 Now we introduce the non-equilibrium Cahn-Hiliard equation:
 
@@ -32,7 +32,7 @@ Now we introduce the non-equilibrium Cahn-Hiliard equation:
 
 If we start from the same intial configuration, we see similar phenomena where the fluid phase-separate into high density and low density. However in steady state, we get a perpetual boiling droplet, which is not possible in equilibrium because all the liquid will be evaporated.
 
-<img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/AMB+.jpeg" alt="drawing" width="1200"/>
+<img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/AMB+.png" alt="drawing" width="1200"/>
 
 
 
