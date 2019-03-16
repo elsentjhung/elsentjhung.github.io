@@ -22,7 +22,7 @@ Probably we are familiar with the Cahn-Hiliard equation:
 
 <img src="http://www.sciweavers.org/tex2img.php?eq=%5Cfrac%7B%5Cpartial%5Cphi%7D%7B%5Cpartial%20t%7D%20%2B%20%5Cnabla%5Ccdot%5Cleft%28%20-%5Cnabla%5Cfrac%7B%5Cdelta%20F%7D%7B%5Cdelta%5Cphi%7D%20%2B%20%5Cboldsymbol%7B%5CLambda%7D%20%5Cright%29%20%3D%200&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="\frac{\partial\phi}{\partial t} + \nabla\cdot\left( -\nabla\frac{\delta F}{\delta\phi} + \boldsymbol{\Lambda} \right) = 0" width="210" height="47" />
 
-In the equation above, _ϕ_ is the density of the fluid. If we start from a homogenous density _ϕ=-0.6_, the system will phase-separate into high density _ϕ=+1_ (liquid) and low density _ϕ=-1_ (vapour) phase. In steady state _t = ∞_, we end up with a single big drop of liquid.
+In the equation above, _ϕ_ is the density of the fluid. If we start from a homogenous density _ϕ = -0.6_, the system will phase-separate into high density _ϕ = +1_ (liquid) and low density _ϕ = -1_ (vapour) phase. In steady state _t = ∞_, we end up with a single big drop of liquid.
 
 <img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/MB.png" alt="drawing" width="1200"/>
 
