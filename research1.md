@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research 1
-permalink: /research/
+permalink: /research1/
 ---
 
 Current research interests: time reversal symmetry breaking in statistical field theory, active droplets, chiral liquid crystals, glasses, _etc_.
