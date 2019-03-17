@@ -26,7 +26,7 @@ In the equation above, _ϕ_ is the density of the fluid. If we start from a homo
 
 <img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/MB.png" alt="drawing" width="1200"/>
 
-Introducing the non-equilibrium Cahn-Hiliard equation...
+Introducing the non-equilibrium Cahn-Hiliard equation....
 
 <img src="http://www.sciweavers.org/tex2img.php?eq=%5Cfrac%7B%5Cpartial%5Cphi%7D%7B%5Cpartial%20t%7D%2B%5Cnabla%5Ccdot%5Cleft%28%20-%5Cnabla%5Cfrac%7B%5Cdelta%20F%7D%7B%5Cdelta%5Cphi%7D%20%2B%20%5Cboldsymbol%7B%5CLambda%7D%20%2B%20%5Clambda%5Cnabla%7C%5Cnabla%5Cphi%7C%5E2%20%2B%20%5Czeta%28%5Cnabla%5E2%5Cphi%29%5Cnabla%5Cphi%20%5Cright%29%3D0&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="\frac{\partial\phi}{\partial t}+\nabla\cdot\left( -\nabla\frac{\delta F}{\delta\phi} + \boldsymbol{\Lambda} + \lambda\nabla|\nabla\phi|^2 + \zeta(\nabla^2\phi)\nabla\phi \right)=0" width="394" height="47" />
 
