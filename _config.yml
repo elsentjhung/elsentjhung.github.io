@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Elsen Tjhung's homepage
+title: Elsen Tjhung
 email: et405@cam.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   The website is created with Jekyll. 
@@ -28,6 +28,21 @@ kramdown:
 theme: minima
 plugins:
   - jekyll-feed
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

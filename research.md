@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Research 1
-permalink: /research1/
+title: Research
+permalink: /research/
 ---
+
+Active Matter
+===
 
 ## Time reversal symmetry breaking
 
