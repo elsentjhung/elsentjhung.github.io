@@ -1,9 +1,9 @@
 ---
 layout: home
-title: Home
+title: Research Blogs
 ---
 
-## Hello
+## This is Elsen's website
 
 
 
