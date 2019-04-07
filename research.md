@@ -3,11 +3,10 @@ layout: page
 title: Research Blogs
 permalink: /research/
 ---
-[Active Matter]
 
-# Active Matter
+## Active Matter
 
-## Time reversal symmetry breaking
+### Time reversal symmetry breaking
 
 In statistical physics we often say this system is in equilibrium and that system is out-of-equilibrium _et cetera_. But what is equilibrium? and what is out-of-equilibrium?
 
@@ -19,7 +18,7 @@ But now suppose we pay half the people 5€ each to walk backwards. They now bec
 
 <img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_figures/people2.png" alt="drawing" width="800"/>
 
-## Active field theories
+### Active field theories
 
 Probably we are familiar with the Cahn-Hiliard equation:
 
@@ -39,7 +38,6 @@ If we start from the same intial configuration, we see similar phenomena where t
 
 <video src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_movies/boiling-droplet.mov" controls="controls" width="480" height="480" />
 
-[Active Matter]: https://elsentjhung.github.io/research/
 
 
 
