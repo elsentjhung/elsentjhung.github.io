@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Research
+title: Research Blogs
 permalink: /research/
 ---
+[Active Matter]
 
-Active Matter
-===
+# Active Matter
 
 ## Time reversal symmetry breaking
 
@@ -39,6 +39,7 @@ If we start from the same intial configuration, we see similar phenomena where t
 
 <video src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_movies/boiling-droplet.mov" controls="controls" width="480" height="480" />
 
+[Active Matter]: https://elsentjhung.github.io/research/
 
 
 
