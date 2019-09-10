@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_figures/me.jpeg" alt="drawing" width="200"/>
+<img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_figures/me2.jpeg" alt="drawing" width="200"/>
 
 
 __Research Associate__
