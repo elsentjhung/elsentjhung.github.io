@@ -5,21 +5,17 @@ title: About
 
 <img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_figures/me2.jpeg" alt="drawing" width="200"/>
 
+__Lecturer in Soft Condensed Matter Physics__
 
-__Research Associate__
-
-Hello my name is Elsen. I'm postdoc in [Prof. Mike Cates]'s [Soft Matter Group].
+Hello my name is Elsen. I'm a lecturer at the Physics Department, Durham University.
 For publications see my [Google Scholar]
 
-My office is in Pavilion G, Centre for Mathematical Sciences, University of Cambridge
 
-![Image](https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_figures/damtp.jpg)
-
-[Department of Applied Maths and Theoretical Physics], <br/>
-Centre of Mathematical Sciences, <br/>
-University of Cambridge, <br/>
-Wilberforce Road <br/>
-CB3 0WA, United Kingdom <br/> 
+Department of Physics, <br/>
+Durham University, <br/>
+Lower Mountjoy, South Rd, <br/>
+Durham, DH1 3LE, 
+United Kingdom <br/> 
 
 [Prof. Mike Cates]: http://www.damtp.cam.ac.uk/people/mec22/
 [Soft Matter Group]: http://www.damtp.cam.ac.uk/research/softmatter/
