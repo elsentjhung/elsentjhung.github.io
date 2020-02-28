@@ -11,7 +11,7 @@ Hello my name is Elsen. I'm a lecturer at the Physics Department, Durham Univers
 For publications see my [Google Scholar]
 
 
-Room PH323,  <br/>
+Room PH323 (note: no disabled access), <br/>
 Department of Physics, <br/>
 Durham University, <br/>
 Lower Mountjoy, South Rd, <br/>
