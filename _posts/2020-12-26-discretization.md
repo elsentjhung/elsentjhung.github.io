@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Numerical discretization for active scalar field theory
+date: 2020-12-26
 ---
 
 ## Active model B+
