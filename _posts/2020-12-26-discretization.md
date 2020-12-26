@@ -17,6 +17,8 @@ The dynamics for active model B+, is given by (see [Tjhung, Nardini, Cates, _PRX
 where _λ_ and _ζ_ are the activity parameters. (_λ=ζ=0_ corresponds to the passive/equilibrium limit.) __Λ__ is Gaussian white noise with zero mean and delta-function correlation:
 <img src="http://latex.codecogs.com/svg.latex?\left<\Lambda_\alpha(\mathbf{r},t)\Lambda_\beta(\mathbf{r}',t')\right>=\delta_{\alpha\beta}\delta(\mathbf{r}-\mathbf{r}')\delta(t-t')" border="0"/>.
 
+Numerically, we have to discretize the laplacian and gradient operator in the _ϕ_-dynamics. First, for derivatives in (1), we must use higher order derivatives. This is because the noise is of order <img src="http://latex.codecogs.com/svg.latex?\sqrt{\Delta t/\Delta x\Delta y}"/>.
+
 
 [previous post]: https://elsentjhung.github.io/2019/04/07/active.html
 [Tjhung, Nardini, Cates, _PRX_, (2018)]: https://journals.aps.org/prx/abstract/10.1103/PhysRevX.8.031080
