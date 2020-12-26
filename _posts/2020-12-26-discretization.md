@@ -32,6 +32,8 @@ For Laplacian in (2), we use isotropic form of the Laplacian because we nucleate
 -\frac{1}{2} & 2 & -\frac{1}{2}
 \end{array}\right]\phi_{ij}" border="0"/>.
 
+For derivative in (3), we apply (1) twice to ensure detailed balance exactly on the lattice.
+
 
 [previous post]: https://elsentjhung.github.io/2019/04/07/active.html
 [Tjhung, Nardini, Cates, _PRX_, (2018)]: https://journals.aps.org/prx/abstract/10.1103/PhysRevX.8.031080
