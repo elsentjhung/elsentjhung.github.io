@@ -13,8 +13,6 @@ From undergraduate physics/chemistry, we learnt that all equilibrium systems can
 However most physical systems we encounter in our everydays' lives are far from equilibrium. 
 Unfortunately there isn't a single unifying framework to solve non-equilibrium systems. 
 
-<img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_figures/irreversibility.jpeg" alt="drawing" width="1200"/>
-
 ### 2. Liquid crystal physics
 
 Liquid crystals are half-solid and half-liquid. They have interesting physical properties (e.g. topological defects, Kibble-Zurek mechanism) and numerous technological applications (e.g. mobile phone screen).
@@ -27,7 +25,7 @@ Active matter is a class of non-equilibrium systems where energy is injected to 
 
 Imagine that we pour some blue paint into a pot of yellow paint, over time, the blue paint will mix with the yellow paint and we will end up with a pot of homogenous green paint. The reverse process in which a pot homogenous green paint spontaneously phase separates into blue and yellow paints is very unlikely to happen in our lifetimes (it will look very weird if it happens). This is called time reversal symmetry (TRS) breaking. The process running forward in time looks very different from the same process running backwards in time. The aim of my research is to characterize and understand how TRS is broken.
 
-<img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_figures/irreversibility.jpeg" alt="drawing" width="1200"/>
+<img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_figures/irreversibility.jpeg" alt="drawing" width="600"/>
 
 
 
