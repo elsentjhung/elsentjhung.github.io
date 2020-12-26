@@ -6,7 +6,7 @@ date: 2020-12-26
 
 ## Active model B+
 
-Here we will consider the active model B+, which is a model for phase-separation in an active matter (see [previous post]).
+Here we will consider the active model B+, which is a model for phase-separation in active matter (see [previous post]).
 We consider a scalar order parameter _ϕ(__r__,t)_. The free energy is given by:
 
 <img src="http://latex.codecogs.com/svg.latex?F[\phi]=\int dV\left\{ -\frac{A}{2}\phi^{2}+\frac{A}{4}\phi^{4}+\frac{K}{2}|\nabla\phi|^{2}\right\}" border="0"/>
@@ -24,7 +24,7 @@ Numerically, we have to discretize the Laplacian and gradient operator in the _�
 
 <img src="http://latex.codecogs.com/svg.latex?\partial_{x}\phi=\frac{\frac{1}{280}\phi_{i-4,j}-\frac{4}{105}\phi_{i-3,j}+\frac{1}{5}\phi_{i-2,j}-\frac{4}{5}\phi_{i-1,j}+\frac{4}{5}\phi_{i+1,j}-\frac{1}{5}\phi_{i+2,j}+\frac{4}{105}\phi_{i+3,j}-\frac{1}{280}\phi_{i+4,j}}{\Delta x}" border="0"/>.
 
-For Laplacian in (2), we use isotropic form of the Laplacian because we nucleate small bubbles, which is bad for _∇<sup>2</sup>ϕ_ (see [Pooley, Furtado, _PRE_, (2007)]):
+For Laplacian in (2), we use the isotropic form of the numerical Laplacian because we nucleate small bubbles, which is bad for _∇<sup>2</sup>ϕ_ (see [Pooley, Furtado, _PRE_, (2007)]):
 
 <img src="http://latex.codecogs.com/svg.latex?\nabla^{2}\phi=\frac{1}{\Delta x\Delta y}\left[\begin{array}{ccc}
 -\frac{1}{2} & 2 & -\frac{1}{2}\\
