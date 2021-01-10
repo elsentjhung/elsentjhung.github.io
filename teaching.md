@@ -3,7 +3,8 @@ layout: page
 title: Teachings
 ---
 
-Currently I am teaching (at Durham University):
+Currently I am teaching (at Durham University Year 2020/2021):
+
 - Level 3: Maths Workshop - integral transform. Lecture notes [here] (notes will be periodically updated)
 
 <img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_figures/piano.jpg" alt="drawing" width="800"/>
