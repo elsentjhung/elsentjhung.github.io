@@ -28,6 +28,6 @@ This is called harmony in music theory.
 
 - Level 1: Foundations of Physics Tutorials
 
-<img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_figures/optics.jpg" alt="drawing" width="400"/>
+<img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_figures/optics.jpg" alt="drawing" width="300"/>
 
 [here]: https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_files/integral-transform.pdf
