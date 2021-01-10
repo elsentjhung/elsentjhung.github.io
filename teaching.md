@@ -7,9 +7,7 @@ Currently I am teaching (at Durham University Year 2020/2021):
 
 ## Level 3: Maths Workshop - integral transform. 
 
-Lecture notes can be downloaded 
-<a href="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_files/integral-transform.pdf" target="_blank">PDF.</a>
-(notes will be periodically updated).
+Lecture notes can be downloaded [here] (notes will be periodically updated).
 The figure below shows some applications of Fourier transform in music.
 
 <img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_figures/piano.jpg" alt="drawing" width="500"/>
