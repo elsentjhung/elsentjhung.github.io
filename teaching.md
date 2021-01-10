@@ -5,7 +5,7 @@ title: Teachings
 
 Currently I am teaching (at Durham University Year 2020/2021):
 
-## Level 3: Maths Workshop - integral transform. 
+### Level 3: Maths Workshop - integral transform. 
 
 Lecture notes can be downloaded [here] (notes will be periodically updated).
 The figure below shows some applications of Fourier transform in music.
@@ -25,13 +25,13 @@ So the middle A note contains a small percentage of E note.
 Bach _et al._ discovered that when note A and note E are played together, they sound nice. 
 This is called harmony in music theory.
 
-## Level 3: Computing Projects 
+### Level 3: Computing Projects 
 
 Some selection of condensed matter projects: hard spheres crystallization, band structure of semiconductors, and Ising model.
 
 <img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_figures/energy-band.jpg" alt="drawing" width="400"/>
 
-## Level 1: Foundations of Physics Tutorials
+### Level 1: Foundations of Physics Tutorials
 
 Covers problem solving in mechanics, waves, optics, electromagnetism, quantum mechanics, and relativity.
 
