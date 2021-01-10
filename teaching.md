@@ -24,10 +24,10 @@ This is called harmony in music theory.
 
 - Level 3: Computing Projects - hard spheres crystallization, band structure of semiconductors, and Ising model
 
-<img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_figures/energy-band.pdf" alt="drawing" width="400"/>
+<img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_figures/energy-band.jpg" alt="drawing" width="400"/>
 
 - Level 1: Foundations of Physics Tutorials
 
-<img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_figures/optics.pdf" alt="drawing" width="400"/>
+<img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_figures/optics.jpg" alt="drawing" width="400"/>
 
 [here]: https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_files/integral-transform.pdf
