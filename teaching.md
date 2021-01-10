@@ -7,7 +7,7 @@ Currently I am teaching (at Durham University Year 2020/2021):
 
 - Level 3: Maths Workshop - integral transform. Lecture notes [here] (notes will be periodically updated)
 
-<img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_figures/piano.jpg" alt="drawing" width="800"/>
+<img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_figures/piano.jpg" alt="drawing" width="600"/>
 
 The bottom left figure shows the sound wave _P(t)_ from the middle A from the piano. 
 The bottom right figure shows its Fourier transform (modulus squared)  _|P(ω)|<sup>2</sup>_ as a function of angular frequency _ω_ (in units of Hz). 
