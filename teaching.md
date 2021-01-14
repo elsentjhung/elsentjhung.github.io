@@ -24,6 +24,7 @@ The peak at _ω ≃ 1320 Hz_ corresponds to the note of high E.
 So the middle A note contains a small percentage of E note. 
 Bach _et al._ discovered that when note A and note E are played together, they sound nice. 
 This is called harmony in music theory.
+(Plots adapted from [M. R. Petersen, The Math. Assoc. of America].)
 
 ### Level 3: Computing Projects 
 
@@ -38,3 +39,5 @@ Covers problem solving in mechanics, waves, optics, electromagnetism, quantum me
 <img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_figures/optics.jpg" alt="drawing" width="300"/>
 
 [here]: https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_files/integral-transform.pdf
+[M. R. Petersen, The Math. Assoc. of America]: https://amath.colorado.edu/pub/matlab/music/
+
