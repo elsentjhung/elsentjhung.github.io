@@ -3,7 +3,7 @@ layout: page
 title: Teachings
 ---
 
-Currently I am teaching (at Durham University Year 2020/2021):
+Previous teaching at Durham University (Academic Year 2020/2021):
 
 ### Level 3: Maths Workshop - integral transform. 
 
