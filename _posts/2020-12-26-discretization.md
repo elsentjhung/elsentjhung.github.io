@@ -40,8 +40,9 @@ For Laplacian in (2) and the gradients in (4), we use the isotropic form of the 
 -\frac{1}{10} & 0 & \frac{1}{10}
 \end{array}\right]\phi_{ij}" border="0"/>.
 
-
+Source code is available here [source code].
 
 [previous post]: https://elsentjhung.github.io/2019/04/07/active.html
 [Tjhung, Nardini, Cates, _PRX_, (2018)]: https://journals.aps.org/prx/abstract/10.1103/PhysRevX.8.031080
 [Pooley, Furtado, _PRE_, (2007)]: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.77.046702
+[source code]: https://github.com/elsentjhung/active-model-B-plus
