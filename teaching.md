@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teachings
+title: Teaching
 ---
 
 Previous teaching at Durham University (Academic Year 2020/2021):
