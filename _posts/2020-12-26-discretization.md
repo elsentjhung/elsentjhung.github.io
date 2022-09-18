@@ -24,7 +24,9 @@ Numerically, we have to discretize the Laplacian and gradient operator in the _�
 
 <img src="http://latex.codecogs.com/svg.latex?\partial_{x}\phi=\frac{\frac{1}{280}\phi_{i-4,j}-\frac{4}{105}\phi_{i-3,j}+\frac{1}{5}\phi_{i-2,j}-\frac{4}{5}\phi_{i-1,j}+\frac{4}{5}\phi_{i+1,j}-\frac{1}{5}\phi_{i+2,j}+\frac{4}{105}\phi_{i+3,j}-\frac{1}{280}\phi_{i+4,j}}{\Delta x}" border="0"/>.
 
-For Laplacian in (2), we use the isotropic form of the numerical Laplacian because we nucleate small bubbles, which is bad for _∇<sup>2</sup>ϕ_ (see [Pooley, Furtado, _PRE_, (2007)]):
+For derivative in (3), we apply (1) twice to ensure detailed balance exactly on the lattice.
+
+For Laplacian in (2) and the gradients in (4), we use the isotropic form of the numerical Laplacian and gradients because we nucleate small bubbles, which is bad for _∇<sup>2</sup>ϕ_ (see [Pooley, Furtado, _PRE_, (2007)]):
 
 <img src="http://latex.codecogs.com/svg.latex?\nabla^{2}\phi=\frac{1}{\Delta x\Delta y}\left[\begin{array}{ccc}
 -\frac{1}{2} & 2 & -\frac{1}{2}\\
@@ -32,7 +34,12 @@ For Laplacian in (2), we use the isotropic form of the numerical Laplacian becau
 -\frac{1}{2} & 2 & -\frac{1}{2}
 \end{array}\right]\phi_{ij}" border="0"/>.
 
-For derivative in (3), we apply (1) twice to ensure detailed balance exactly on the lattice.
+<img src="http://latex.codecogs.com/svg.latex?\partial_x\phi=\frac{1}{\Delta x}\left[\begin{array}{ccc}
+-\frac{1}{10} & 0 & \frac{1}{10}\\
+-\frac{3}{10} & 0 & \frac{3}{10}\\
+-\frac{1}{10} & 0 & \frac{1}{10}
+\end{array}\right]\phi_{ij}" border="0"/>.
+
 
 
 [previous post]: https://elsentjhung.github.io/2019/04/07/active.html
