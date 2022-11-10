@@ -5,7 +5,7 @@ title: Tutorial
 
 ### 1. Cahn-Hilliard equation
 
-Cahn-Hilliard equation is a model for phase-separation in a fluid, _e.g_ water/oil phase separation, liquid/gas phase separation, droplets, and so on.
+Cahn-Hilliard equation is a model for phase-separation in a fluid, _e.g._ water/oil phase separation, liquid/gas phase separation, droplets, and so on.
 
 #### 1.1. Coarsening process 
 
