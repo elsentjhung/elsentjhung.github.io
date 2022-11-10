@@ -5,21 +5,25 @@ title: Research
 
 Currently I am interested in the following theoretical research areas:
 
-## 1. Liquid crystal physics
+## 1. Statistical physics of soft condensed matter
 
-Liquid crystals are half-solid and half-liquid. They have interesting physical properties (e.g. topological defects, Kibble-Zurek mechanism) and numerous technological applications (e.g. mobile phone screen).
+Soft matter includes: liquid crystals in your laptop screen, emulsion in your mayonnaise, and colloidal suspensions in many household products. 
+Although the microscopic details of these matters are quite complicated, e.g. they might involve hydrogen-bond, or complex chemical interaction, 
+the macroscopic behaviours of these systems are often very simple. 
+One important result in statistical physics basically says that the macroscopic properties of these system can often be defined through symmetries alone (the same reason standard model of the universe is derived from symmetries).
 
 <img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_figures/liquid-crystal.png" alt="drawing" width="600"/>
 
 ## 2. Active matter
 
-Active matter is a class of non-equilibrium systems where energy is injected to the system at microscopic scale, e.g. cellular cytoskeletons, living tissues, etc. In all these examples, the source of energy injection comes from ATP -> ADP chemical reaction.
+Active matter is a class of non-equilibrium systems, which violates time reversal symmetry (TRS) at the smallest scale.
+In this project, we try to understand how TRS-breaking at small scales (_e.g._ cell cycle and protein polymerisation) can be translated into new physics at larger scales (_e.g._ collective motion in tissues, animal locomotion and evolution).
 
 <img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_figures/bubble.png" alt="drawing" width="600"/>
 
 ## 3. Stochastic thermodynamics and time-irreversibility
 
-Imagine that we pour some blue paint into a pot of yellow paint, over time, the blue paint will mix with the yellow paint and we will end up with a pot of homogenous green paint. The reverse process in which a pot homogenous green paint spontaneously phase separates into blue and yellow paints is very unlikely to happen in our lifetimes (it will look very weird if it happens). This is called time reversal symmetry (TRS) breaking. The process running forward in time looks very different from the same process running backwards in time. The aim of my research is to characterize and understand how TRS is broken.
+From undergraduate thermodynamics, we often assumed thermodynamic  processes to be quasi-static, equilibrium, and consist of a large number of particles N >> 10<sup>23</sup>. In this project, we aim to generalize classical theory of thermodynamics to systems which are far from equilibrium such as living matter, or small such as molecular engines. 
 
 <img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_figures/irreversibility.png" alt="drawing" width="600"/>
 
