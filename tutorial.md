@@ -3,6 +3,27 @@ layout: page
 title: Tutorial
 ---
 
+This tutorial is aimed at PhD students who are going to do research in Theoretical Soft Condensed Matter Physics and Statistical Physics. 
+This tutorial is also suitable for Postdocs who are thinking of changing research field to the above-mentioned.
+(This page is work in progress and will be updated periodically.)
+
+### 0. Programming languages
+
+You should learn at least 1 programming language at minimum. 
+Ideally you should know 2 programming languages: 1) high level programming language (_e.g._ Python or other object-oriented programming languages) and 2) low level programming language (_e.g_ C or C++, which give you more control about memory management).
+
+#### 0.1. Python
+
+The first programming language I recommend to learn is Python. The reason is that Python is a modern programming language and widely used in scientific research and other industry such as data science, banking, machine learning, web development, _etc_. Python also has a vast library to do some numerical computation and plotting. The book I recommend to learn Python is [Eric Matthes, Python Crash Course, _No Starch Press_] (available on Amazon).
+
+#### 0.2. C
+
+After you become expert in Python, I would also encourage you to learn low level programming such as C or C++.
+There are two reasons why this is a good idea. 
+First, programs written in C usually run 10 times faster compared to those written in Python.
+Second, learning low level programming language teach you how memory management work in your computer.
+I used this book to learn C: [Greg Perry, C Programming Absolute Beginner's Guide, _Que Publishing_] (also available on Amazon).
+
 ### 1. Cahn-Hilliard equation
 
 Cahn-Hilliard equation is a model for phase-separation in a fluid, _e.g._ water/oil phase separation, liquid/gas phase separation, droplets, and so on.
