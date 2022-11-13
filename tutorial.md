@@ -9,7 +9,7 @@ This tutorial is also suitable for Postdocs who are thinking of changing researc
 
 ### 0. Programming languages
 
-You should learn at least 1 programming language at minimum. 
+You should learn at least 1 programming language at a minimum. 
 Ideally you should know 2 programming languages: 1) one high level programming language (_e.g._ Python or other object-oriented programming languages) and 2) one low level programming language (_e.g._ C or C++, which give you more control about memory management).
 
 #### 0.1. Python
