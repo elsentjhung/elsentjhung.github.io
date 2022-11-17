@@ -54,3 +54,7 @@ In this tutorial, we will give you the basic introduction to the Cahn-Hiliard eq
 
 [Greg Perry, C Programming Absolute Beginner's Guide, _Que Publishing_]: https://www.amazon.co.uk/Programming-Absolute-Beginners-Guide-Guides/dp/0789751984/ref=sr_1_1?keywords=c+programming+absolute+beginner%27s+guide&qid=1668365982&sprefix=c+programming+abso%2Caps%2C160&sr=8-1
 
+[Eric Matthes, Python Crash Course, _No Starch Press_]: https://www.amazon.co.uk/Python-Crash-Course-Hands-Project-Based/dp/1593276036/ref=sr_1_3?crid=3PW3644NJJAFI&keywords=Eric+Matthes+python&qid=1668365923&sprefix=eric+matthes+python%2Caps%2C153&sr=8-3
+
+[Greg Perry, C Programming Absolute Beginner's Guide, _Que Publishing_]: https://www.amazon.co.uk/Programming-Absolute-Beginners-Guide-Guides/dp/0789751984/ref=sr_1_1?keywords=c+programming+absolute+beginner%27s+guide&qid=1668365982&sprefix=c+programming+abso%2Caps%2C160&sr=8-1
+
