@@ -38,17 +38,11 @@ In this tutorial, we will give you the basic introduction to the Cahn-Hiliard eq
 
 (Work in progress.)
 
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
+
+
 [coarsening process]: https://nbviewer.org/github/elsentjhung/cahn-hilliard-coarsening/blob/master/coarsening.ipynb
-=======
->>>>>>> Stashed changes
-
-
 
 [coarsening process]: https://nbviewer.org/github/elsentjhung/cahn-hilliard-coarsening/blob/master/cahn_hilliard.ipynb
->>>>>>> b97889293565dee708b0192c82d3dd72de0a9f39
 
 [Eric Matthes, Python Crash Course, _No Starch Press_]: https://www.amazon.co.uk/Python-Crash-Course-Hands-Project-Based/dp/1593276036/ref=sr_1_3?crid=3PW3644NJJAFI&keywords=Eric+Matthes+python&qid=1668365923&sprefix=eric+matthes+python%2Caps%2C153&sr=8-3
 
