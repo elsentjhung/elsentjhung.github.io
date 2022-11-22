@@ -9,7 +9,7 @@ This tutorial is aimed at PhD students who are going to do research in Theoretic
 ### 0. Programming languages
 
 You should learn at least 1 programming language at a minimum. 
-Ideally you should know 2 programming languages: 1) one high level programming language (_e.g._ Python) and 2) one low level programming language (_e.g._ C or C++).
+Ideally you should know 2 programming languages: 1) one high level programming language, _e.g._ Python, and 2) one low level programming language, _e.g._ C or C++.
 
 #### 0.1. Python
 
