@@ -3,14 +3,13 @@ layout: page
 title: Tutorial
 ---
 
-This tutorial is aimed at PhD students who are going to do research in Theoretical Soft Condensed Matter Physics and Statistical Physics. 
-This tutorial is also suitable for Postdocs who are thinking of changing research field to the above-mentioned.
+This tutorial is aimed at PhD students who are going to do research in Theoretical Soft Condensed Matter Physics and Statistical Physics.
 (This page is work in progress and will be updated periodically.)
 
 ### 0. Programming languages
 
 You should learn at least 1 programming language at a minimum. 
-Ideally you should know 2 programming languages: 1) one high level programming language (_e.g._ Python or other object-oriented programming languages) and 2) one low level programming language (_e.g._ C or C++, which give you more control about memory management).
+Ideally you should know 2 programming languages: 1) one high level programming language (_e.g._ Python) and 2) one low level programming language (_e.g._ C or C++, which give you more control about memory management).
 
 #### 0.1. Python
 
