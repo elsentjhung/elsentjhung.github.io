@@ -10,7 +10,7 @@ Currently I am interested in the following theoretical research areas:
 Soft matter includes: liquid crystals in your laptop screen, emulsion in your mayonnaise, and colloidal suspensions in many household products. 
 Although the microscopic details of these matters are quite complicated, e.g. they might involve hydrogen-bond, or complex chemical interaction, 
 the macroscopic behaviours of these systems are often very simple. 
-One important result in statistical physics basically says that the macroscopic properties of these system can often be defined through symmetries alone (the same reason standard model of the universe is derived from symmetries).
+One important result in statistical physics basically says that the macroscopic properties of these system can often be derived from symmetries alone (the same reason standard model of the universe is derived from symmetries).
 
 <img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_figures/liquid-crystal.png" alt="drawing" width="600"/>
 
