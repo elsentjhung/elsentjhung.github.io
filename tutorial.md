@@ -46,7 +46,7 @@ In this tutorial, we will give you the basic introduction to the Cahn-Hiliard eq
 (Work in progress.)
 
 
-[sound wave and Fourier transform notebook] https://nbviewer.org/github/elsentjhung/sound-wave-analyser/blob/master/sound_analyser.ipynb
+[sound wave and Fourier transform notebook]: https://nbviewer.org/github/elsentjhung/sound-wave-analyser/blob/master/sound_analyser.ipynb
 
 [coarsening notebook]: https://nbviewer.org/github/elsentjhung/cahn-hilliard-coarsening/blob/master/coarsening.ipynb
 
