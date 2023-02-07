@@ -12,9 +12,9 @@ You should learn at least one high programming language _e.g._ Python, and one l
 
 #### 0.1. Python
 
-Python is a modern object-oriented programming language and widely used in scientific research and other industry such as data science, banking, machine learning, web development, _etc_. Python also has a vast library to do some numerical computation and plotting. The book I recommend to learn Python is [Eric Matthes, Python Crash Course, _No Starch Press_] (available on Amazon).
+Python is a modern object-oriented programming language and widely used in scientific research and other industry such as data science, banking, machine learning, _etc_. Python also has a vast library to do some numerical computation and plotting. The book I recommend to learn Python is [Eric Matthes, Python Crash Course, _No Starch Press_] (available on Amazon).
 
-#### 0.2. C
+#### 0.2. C or C++
 
 There are two reasons why it's also a good idea to learn C or C++. 
 First, programs written in C usually run 10 times faster compared to those written in Python.
@@ -25,9 +25,9 @@ I used this book to learn C: [Greg Perry, C Programming Absolute Beginner's Guid
 
 This section contains several concepts in mathematical methods that might be useful.
 
-#### 1.1. Fourier series, Fourier transform, and discrete Fourier transform
+#### 1.1. Fourier series, Fourier transform, and fast Fourier transform
 
-Do you play a musical instrument? do you want to refresh your Python? do you want to learn Fourier transform? Then this juppyter notebook will teach you all of the above [sound wave and Fourier transform notebook].
+Do you play a musical instrument? do you want to refresh your Python? do you want to learn Fourier transform? Then this jupyter notebook will teach you all of the above [sound wave and Fourier transform notebook].
 
 <img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_figures/Fourier-transform.png" alt="drawing" width="800"/>
 
@@ -45,6 +45,19 @@ In this tutorial, we will give you the basic introduction to the Cahn-Hiliard eq
 
 (Work in progress.)
 
+#### 2.3. Adding noise and pseudo-spectral methods
+
+(Work in progress.)
+
+### 3. Brownian motion
+
+Brownian motion is the jittery motion of micron-sized particles in a fluid.
+These particles do not sit still and instead they are being bombarded by the even smaller fluid molecules.
+This random kicks from the fluid molecules can be approximated as random force.
+
+#### 3.1. Langevin equation
+
+(Work in progress.)
 
 [sound wave and Fourier transform notebook]: https://nbviewer.org/github/elsentjhung/sound-wave-analyser/blob/master/sound_analyser.ipynb
 
