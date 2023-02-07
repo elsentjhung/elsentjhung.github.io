@@ -5,9 +5,9 @@ title: About
 
 <img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_figures/me2.jpeg" alt="drawing" width="200"/>
 
-__Lecturer in Applied Mathematics and Data Science__
+__EPSRC Research Fellow__
 
-Hello my name is Elsen. I'm a lecturer in Applied Mathematics and Data Science in the School of Mathematics and Statistics, The Open University.
+Hello my name is Elsen. I'm an EPSRC Research Fellow in the School of Mathematics and Statistics, The Open University.
 For publications see my [Google Scholar]
 
 
