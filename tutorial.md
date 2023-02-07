@@ -52,7 +52,7 @@ In this tutorial, we will give you the basic introduction to the Cahn-Hiliard eq
 ### 3. Brownian motion
 
 Brownian motion is the jittery motion of micron-sized particles in a fluid.
-These particles do not sit still and instead they are being bombarded by the even smaller fluid molecules.
+These particles do not sit still and instead they are being bombarded by even smaller fluid molecules.
 This random kicks from the fluid molecules can be approximated as random force.
 
 #### 3.1. Langevin equation
