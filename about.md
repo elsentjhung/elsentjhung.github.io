@@ -23,5 +23,5 @@ United Kingdom <br/>
 [Department of Applied Maths and Theoretical Physics]: http://www.damtp.cam.ac.uk
 [Google Scholar]: https://scholar.google.co.uk/citations?user=IpPNtcAAAAAJ&hl=en
 
-<img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_figures/logo.jpg" alt="drawing" width="800"/>
+<img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_figures/logo.jpg" alt="drawing" width="600"/>
 
