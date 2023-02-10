@@ -43,11 +43,8 @@ In this tutorial, we will give you the basic introduction to the Cahn-Hiliard eq
 
 #### 2.2. Droplet 
 
-(Work in progress.)
+In this Jupyter notebook, we will derive the macroscopic properties of a droplet, such as surface tension, pressure, _etc_, from the Hamiltonian. The link to the jupyter notebook is here [droplet notebook].
 
-#### 2.3. Adding noise and pseudo-spectral methods
-
-(Work in progress.)
 
 ### 3. Brownian motion
 
@@ -62,6 +59,8 @@ This random kicks from the fluid molecules can be approximated as random force.
 [sound wave and Fourier transform notebook]: https://nbviewer.org/github/elsentjhung/sound-wave-analyser/blob/master/sound_analyser.ipynb
 
 [coarsening notebook]: https://nbviewer.org/github/elsentjhung/cahn-hilliard-coarsening/blob/master/coarsening.ipynb
+
+[droplet notebook]: https://nbviewer.org/github/elsentjhung/cahn-hilliard-droplet/blob/master/droplet.ipynb
 
 [Eric Matthes, Python Crash Course, _No Starch Press_]: https://www.amazon.co.uk/Python-Crash-Course-Hands-Project-Based/dp/1593276036/ref=sr_1_3?crid=3PW3644NJJAFI&keywords=Eric+Matthes+python&qid=1668365923&sprefix=eric+matthes+python%2Caps%2C153&sr=8-3
 
