@@ -43,7 +43,7 @@ In this tutorial, we will introduce the order parameter, the Hamiltonian and the
 
 #### 2.2. Droplet 
 
-In this Jupyter notebook, we will derive the macroscopic properties of a droplet, such as surface tension, pressure, contact angle _etc_, from the Hamiltonian. The link to the jupyter notebook is here [droplet notebook].
+In this tutorial, we will derive the macroscopic properties of a droplet, such as surface tension, pressure, contact angle _etc_, from the Hamiltonian. The link to the jupyter notebook is here [droplet notebook].
 
 
 ### 3. Brownian motion
