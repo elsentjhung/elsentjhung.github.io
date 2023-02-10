@@ -37,13 +37,13 @@ Cahn-Hilliard equation is a model for phase-separation in a fluid, _e.g._ water/
 
 #### 2.1. Coarsening process 
 
-In this tutorial, we will give you the basic introduction to the Cahn-Hiliard equation. First we introduce the order parameter, the free energy and the time evolution of the order parameter. We will also look at the equilibrium phase diagram and the linear stability analysis of the homogenous phase. The link to the jupyter notebook is here [coarsening notebook].
+In this tutorial, we will introduce the order parameter, the Hamiltonian and the time evolution of the order parameter. We will also look at the equilibrium phase diagram and the linear stability analysis of the homogenous phase. The link to the jupyter notebook is here [coarsening notebook].
 
 <img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_figures/coarsening.png" alt="drawing" width="800"/>
 
 #### 2.2. Droplet 
 
-In this Jupyter notebook, we will derive the macroscopic properties of a droplet, such as surface tension, pressure, _etc_, from the Hamiltonian. The link to the jupyter notebook is here [droplet notebook].
+In this Jupyter notebook, we will derive the macroscopic properties of a droplet, such as surface tension, pressure, contact angle _etc_, from the Hamiltonian. The link to the jupyter notebook is here [droplet notebook].
 
 
 ### 3. Brownian motion
