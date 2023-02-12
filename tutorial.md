@@ -34,7 +34,7 @@ Do you play a musical instrument? do you want to refresh your Python? do you wan
 #### 1.2. Vector calculus
 
 How to generalize differentiation and integration to a function with more than one variable?
-I attach the 
+The pdf of the lecture notes is here: [vector calculus lecture notes].
 
 ### 2. Binary fluid
 
@@ -62,6 +62,8 @@ This random kicks from the fluid molecules can be approximated as random force.
 (Work in progress.)
 
 [sound wave and Fourier transform notebook]: https://nbviewer.org/github/elsentjhung/sound-wave-analyser/blob/master/sound_analyser.ipynb
+
+[vector calculus lecture notes]: https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_files/vector-calculus.pdf
 
 [coarsening notebook]: https://nbviewer.org/github/elsentjhung/cahn-hilliard-coarsening/blob/master/coarsening.ipynb
 
