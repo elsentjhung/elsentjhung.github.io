@@ -31,6 +31,11 @@ Do you play a musical instrument? do you want to refresh your Python? do you wan
 
 <img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_figures/Fourier-transform.png" alt="drawing" width="800"/>
 
+#### 1.2. Vector calculus
+
+How to generalize differentiation and integration to a function with more than one variable?
+I attach the 
+
 ### 2. Binary fluid
 
 In this section, we will start with Cahn-Hilliard equation, which is a model for phase-separation in a binary fluid, _e.g._ water/oil phase separation, liquid/gas phase separation, droplets, and so on. Then we will extend the Cahn-Hiliard equation to include momentum conservation (Navier-Stokes equation) or noise (model B equation).
