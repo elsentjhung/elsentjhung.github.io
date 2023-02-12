@@ -8,18 +8,21 @@ This tutorial is aimed at PhD students and postdocs who are going to do research
 
 ### 0. Programming languages
 
-You should learn at least one high programming language _e.g._ Python, and one low level programming language, _e.g._ C or C++. This tutorial assumes knowledge of Python.
+You should learn at least one high programming language _e.g._ Python, and one low level programming language, _e.g._ C or C++. 
+This tutorial assumes knowledge of Python.
 
 #### 0.1. Python
 
-Python is a modern object-oriented programming language and widely used in scientific research and other industry such as data science, banking, machine learning, _etc_. Python also has a vast library to do some numerical computation and plotting. The book I recommend to learn Python is [Eric Matthes, Python Crash Course, _No Starch Press_] (available on Amazon).
+Python is a modern object-oriented programming language and widely used in scientific research and other industry such as data science, banking, machine learning, _etc_. 
+Python also has a vast library to do numerical computation and plotting. 
+The book I recommend to learn Python is [Python Crash Course] (available on Amazon).
 
 #### 0.2. C or C++
 
 There are two reasons why it's also a good idea to learn C or C++. 
 First, programs written in C usually run 10 times faster compared to those written in Python.
 Second, learning low level programming language will also teach you how memory management works in your computer.
-I used this book to learn C: [Greg Perry, C Programming Absolute Beginner's Guide, _Que Publishing_] (also available on Amazon).
+I used this book to learn C: [C Programming Absolute Beginner's Guide] (also available on Amazon).
 
 ### 1. Essential mathematics
 
@@ -38,17 +41,21 @@ The pdf of the lecture notes is here: [vector calculus lecture notes].
 
 ### 2. Binary fluid
 
-In this section, we will start with Cahn-Hilliard equation, which is a model for phase-separation in a binary fluid, _e.g._ water/oil phase separation, liquid/gas phase separation, droplets, and so on. Then we will extend the Cahn-Hiliard equation to include momentum conservation (Navier-Stokes equation) or noise (model B equation).
+In this section, we will start with Cahn-Hilliard equation, which is a model for phase-separation in a binary fluid, _e.g._ water/oil phase separation, liquid/gas phase separation, droplets, and so on. 
+Then we will extend the Cahn-Hiliard equation to include momentum conservation (Navier-Stokes equation) or noise (model B equation).
 
 #### 2.1. Coarsening process 
 
-In this tutorial, we will introduce the order parameter, the Hamiltonian and the time evolution of the order parameter. We will also look at the equilibrium phase diagram and the linear stability analysis of the homogenous phase. The link to the jupyter notebook is here [coarsening notebook].
+In this tutorial, we will introduce the order parameter, the Hamiltonian and the time evolution of the order parameter. 
+We will also look at the equilibrium phase diagram and the linear stability analysis of the homogenous phase. 
+The link to the jupyter notebook is here [coarsening notebook].
 
 <img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_figures/coarsening.png" alt="drawing" width="800"/>
 
 #### 2.2. Droplet 
 
-In this tutorial, we will derive the macroscopic properties of a droplet, such as surface tension, pressure, contact angle _etc_, from the Hamiltonian. The link to the jupyter notebook is here [droplet notebook].
+In this tutorial, we will derive the macroscopic properties of a droplet, such as surface tension, pressure, contact angle _etc_, from the Hamiltonian. 
+The link to the jupyter notebook is here [droplet notebook].
 
 
 ### 3. Brownian motion
@@ -69,11 +76,6 @@ This random kicks from the fluid molecules can be approximated as random force.
 
 [droplet notebook]: https://nbviewer.org/github/elsentjhung/cahn-hilliard-droplet/blob/master/droplet.ipynb
 
-[Eric Matthes, Python Crash Course, _No Starch Press_]: https://www.amazon.co.uk/Python-Crash-Course-Hands-Project-Based/dp/1593276036/ref=sr_1_3?crid=3PW3644NJJAFI&keywords=Eric+Matthes+python&qid=1668365923&sprefix=eric+matthes+python%2Caps%2C153&sr=8-3
+[Python Crash Course]: https://www.amazon.co.uk/Python-Crash-Course-Hands-Project-Based/dp/1593276036/ref=sr_1_3?crid=3PW3644NJJAFI&keywords=Eric+Matthes+python&qid=1668365923&sprefix=eric+matthes+python%2Caps%2C153&sr=8-3
 
-[Greg Perry, C Programming Absolute Beginner's Guide, _Que Publishing_]: https://www.amazon.co.uk/Programming-Absolute-Beginners-Guide-Guides/dp/0789751984/ref=sr_1_1?keywords=c+programming+absolute+beginner%27s+guide&qid=1668365982&sprefix=c+programming+abso%2Caps%2C160&sr=8-1
-
-[Eric Matthes, Python Crash Course, _No Starch Press_]: https://www.amazon.co.uk/Python-Crash-Course-Hands-Project-Based/dp/1593276036/ref=sr_1_3?crid=3PW3644NJJAFI&keywords=Eric+Matthes+python&qid=1668365923&sprefix=eric+matthes+python%2Caps%2C153&sr=8-3
-
-[Greg Perry, C Programming Absolute Beginner's Guide, _Que Publishing_]: https://www.amazon.co.uk/Programming-Absolute-Beginners-Guide-Guides/dp/0789751984/ref=sr_1_1?keywords=c+programming+absolute+beginner%27s+guide&qid=1668365982&sprefix=c+programming+abso%2Caps%2C160&sr=8-1
-
+[C Programming Absolute Beginner's Guide]: https://www.amazon.co.uk/Programming-Absolute-Beginners-Guide-Guides/dp/0789751984/ref=sr_1_1?keywords=c+programming+absolute+beginner%27s+guide&qid=1668365982&sprefix=c+programming+abso%2Caps%2C160&sr=8-1
