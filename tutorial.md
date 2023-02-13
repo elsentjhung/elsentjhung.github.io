@@ -38,7 +38,7 @@ Do you play a musical instrument? do you want to refresh your Python? do you wan
 
 How to generalize differentiation and integration to a function with more than one variable?
 The pdf of the lecture notes is here: 
-<a href="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_files/vector-calculus.pdf" type="application/pdf" target="_blank">vector calculus lecture notes2</a>.
+<a href="https://github.com/elsentjhung/elsentjhung.github.io/blob/master/_files/vector-calculus.pdf" type="application/pdf">vector calculus lecture notes0</a>.
 
 ### 2. Binary fluid
 
