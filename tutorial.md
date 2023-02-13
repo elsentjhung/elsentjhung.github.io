@@ -32,7 +32,7 @@ This section contains several concepts in mathematical methods that might be use
 
 Do you play a musical instrument? do you want to refresh your Python? do you want to learn Fourier transform? Then this jupyter notebook will teach you all of the above [sound wave and Fourier transform notebook].
 
-<img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_figures/Fourier-transform.png" alt="drawing" width="800"/>
+<img src="https://elsentjhung.github.io/figures/Fourier-transform.png" alt="drawing" width="800"/>
 
 #### 1.2. Vector calculus
 
@@ -51,7 +51,7 @@ In this tutorial, we will introduce the order parameter, the Hamiltonian and the
 We will also look at the equilibrium phase diagram and the linear stability analysis of the homogenous phase. 
 The link to the jupyter notebook is here [coarsening notebook].
 
-<img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_figures/coarsening.png" alt="drawing" width="800"/>
+<img src="https://elsentjhung.github.io/figures/coarsening.png" alt="drawing" width="800"/>
 
 #### 2.2. Droplet 
 

@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_figures/me2.jpg" alt="drawing" width="200"/>
+<img src="https://elsentjhung.github.io/figures/me2.jpg" alt="drawing" width="200"/>
 
 __EPSRC Research Fellow__
 
@@ -23,5 +23,5 @@ United Kingdom <br/>
 [Department of Applied Maths and Theoretical Physics]: http://www.damtp.cam.ac.uk
 [Google Scholar]: https://scholar.google.co.uk/citations?user=IpPNtcAAAAAJ&hl=en
 
-<img src="https://raw.githubusercontent.com/elsentjhung/elsentjhung.github.io/master/_figures/logo.jpg" alt="drawing" width="600"/>
+<img src="https://elsentjhung.github.io/figures/logo.jpg" alt="drawing" width="600"/>
 
