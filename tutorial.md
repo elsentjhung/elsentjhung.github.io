@@ -51,7 +51,7 @@ In this tutorial, we will introduce the order parameter, the Hamiltonian and the
 We will also look at the equilibrium phase diagram and the linear stability analysis of the homogenous phase. 
 The link to the jupyter notebook is here [coarsening notebook].
 
-<img src="https://elsentjhung.github.io/figures/coarsening.png" alt="drawing" width="800"/>
+<img src="https://elsentjhung.github.io/figures/coarsening.jpg" alt="drawing" width="800"/>
 
 #### 2.2. Droplet 
 
