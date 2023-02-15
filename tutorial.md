@@ -8,18 +8,18 @@ This tutorial is aimed at PhD students and postdocs who are going to do research
 
 ---
 
-### 0. Programming languages
+### __0. Programming languages__
 
 You should learn at least one high programming language _e.g._ Python, and one low level programming language, _e.g._ C or C++. 
 This tutorial assumes knowledge of Python.
 
-#### 0.1. Python
+#### __0.1. Python__
 
 Python is a modern object-oriented programming language and widely used in scientific research and other industry such as data science, banking, machine learning, _etc_. 
 Python also has a vast library to do numerical computation and plotting. 
 The book I recommend to learn Python is [Python Crash Course] (available on Amazon).
 
-#### 0.2. C or C++
+#### __0.2. C or C++__
 
 There are two reasons why it's also a good idea to learn C or C++. 
 First, programs written in C usually run 10 times faster compared to those written in Python.
@@ -28,17 +28,17 @@ I used this book to learn C: [C Programming Absolute Beginner's Guide] (also ava
 
 ---
 
-### 1. Essential mathematics
+### __1. Essential mathematics__
 
 This section contains several concepts in mathematical methods that might be useful.
 
-#### 1.1. Fourier series, Fourier transform, and fast Fourier transform
+#### __1.1. Fourier series, Fourier transform, and fast Fourier transform__
 
 Do you play a musical instrument? do you want to refresh your Python? do you want to learn Fourier transform? Then this jupyter notebook will teach you all of the above [sound wave and Fourier transform notebook].
 
 <img src="https://elsentjhung.github.io/figures/Fourier-transform.png" alt="drawing" width="800"/>
 
-#### 1.2. Vector calculus
+#### __1.2. Vector calculus__
 
 How to generalize differentiation and integration to a function with more than one variable?
 The pdf of the lecture notes is here: 
@@ -46,12 +46,12 @@ The pdf of the lecture notes is here:
 
 ---
 
-### 2. Binary fluid
+### __2. Binary fluid__
 
 In this section, we will start with Cahn-Hilliard equation, which is a model for phase-separation in a binary fluid, _e.g._ water/oil phase separation, liquid/gas phase separation, droplets, and so on. 
 Then we will extend the Cahn-Hiliard equation to include momentum conservation (Navier-Stokes equation) or noise (model B equation).
 
-#### 2.1. Coarsening process 
+#### __2.1. Coarsening process__
 
 In this tutorial, we will introduce the order parameter, the Hamiltonian and the time evolution of the order parameter. 
 We will also look at the equilibrium phase diagram and the linear stability analysis of the homogenous phase. 
@@ -59,20 +59,22 @@ The link to the jupyter notebook is here [coarsening notebook].
 
 <img src="https://elsentjhung.github.io/figures/coarsening.jpg" alt="drawing" width="800"/>
 
-#### 2.2. Droplet 
+#### __2.2. Droplet__
 
 In this tutorial, we will derive the macroscopic properties of a droplet, such as surface tension, pressure, contact angle _etc_, from the Hamiltonian. 
 The link to the jupyter notebook is here [droplet notebook].
 
+<img src="https://elsentjhung.github.io/figures/affine-deformation.jpg" alt="drawing" width="800"/>
+
 ---
 
-### 3. Brownian motion
+### __3. Brownian motion__
 
 Brownian motion is the jittery motion of micron-sized particles in a fluid.
 These particles do not sit still and instead they are being bombarded by even smaller fluid molecules.
 This random kicks from the fluid molecules can be approximated as random force.
 
-#### 3.1. Langevin equation
+#### __3.1. Langevin equation__
 
 (Work in progress.)
 
