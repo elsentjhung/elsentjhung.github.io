@@ -8,18 +8,18 @@ This tutorial is aimed at PhD students and postdocs who are going to do research
 
 ---
 
-### __0. Programming languages__
+### \textcolor{blue}{0. Programming languages}
 
 You should learn at least one high level programming language _e.g._ Python, and one low level programming language, _e.g._ C or C++. 
 This tutorial assumes knowledge of Python.
 
-#### __0.1. Python__
+#### \textcolor{blue}{0.1. Python}
 
 Python is a modern object-oriented programming language and widely used in scientific research and other industry such as data science, banking, machine learning, _etc_. 
 Python also has a vast library to do numerical computation and plotting. 
 The book I recommend to learn Python is [Python Crash Course] (available on Amazon).
 
-#### __0.2. C or C++__
+#### \textcolor{blue}{0.2. C or C++}
 
 There are two reasons why it's also a good idea to learn C or C++. 
 First, programs written in C usually run 10 times faster compared to those written in Python.
@@ -28,17 +28,17 @@ I used this book to learn C: [C Programming Absolute Beginner's Guide] (also ava
 
 ---
 
-### __1. Essential mathematics__
+### \textcolor{blue}{1. Essential mathematics}
 
 This section contains several concepts in mathematical methods that might be useful.
 
-#### __1.1. Fourier series, Fourier transform, and fast Fourier transform__
+#### \textcolor{blue}{1.1. Fourier series, Fourier transform, and fast Fourier transform}
 
 Do you play a musical instrument? do you want to refresh your Python? do you want to learn Fourier transform? Then this jupyter notebook will teach you all of the above [sound wave and Fourier transform notebook].
 
 <img src="https://elsentjhung.github.io/figures/Fourier-transform.png" alt="drawing" width="800"/>
 
-#### __1.2. Vector calculus__
+#### \textcolor{blue}{1.2. Vector calculus}
 
 How to generalize differentiation and integration to a function with more than one variable?
 The pdf of the lecture notes is here: 
@@ -46,12 +46,12 @@ The pdf of the lecture notes is here:
 
 ---
 
-### __2. Binary fluid__
+### \textcolor{blue}{2. Binary fluid}
 
 In this section, we will start with Cahn-Hilliard equation, which is a model for phase-separation in a binary fluid, _e.g._ water/oil phase separation, liquid/gas phase separation, droplets, and so on. 
 Then we will extend the Cahn-Hiliard equation to include momentum conservation (Navier-Stokes equation) or noise (model B equation).
 
-#### __2.1. Coarsening process__
+#### \textcolor{blue}{2.1. Coarsening process}
 
 In this tutorial, we will introduce the order parameter, the Hamiltonian and the time evolution of the order parameter. 
 We will also look at the equilibrium phase diagram and the linear stability analysis of the homogenous phase. 
@@ -59,7 +59,7 @@ The link to the jupyter notebook is here [coarsening notebook].
 
 <img src="https://elsentjhung.github.io/figures/coarsening.jpg" alt="drawing" width="800"/>
 
-#### __2.2. Droplet__
+#### \textcolor{blue}{2.2. Droplet}
 
 In this tutorial, we will derive the macroscopic properties of a droplet, such as surface tension, pressure, contact angle _etc_, from the Hamiltonian. 
 The link to the jupyter notebook is here [droplet notebook].
@@ -68,13 +68,13 @@ The link to the jupyter notebook is here [droplet notebook].
 
 ---
 
-### __3. Brownian motion__
+### \textcolor{blue}{3. Brownian motion}
 
 Brownian motion is the jittery motion of micron-sized particles in a fluid.
 These particles do not sit still and instead they are being bombarded by even smaller fluid molecules.
 This random kicks from the fluid molecules can be approximated as random force.
 
-#### __3.1. Langevin equation__
+#### \textcolor{blue}{3.1. Langevin equation}
 
 (Work in progress.)
 
