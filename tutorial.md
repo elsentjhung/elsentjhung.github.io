@@ -10,7 +10,7 @@ This tutorial is aimed at PhD students and postdocs who are going to do research
 
 ### __0. Programming languages__
 
-You should learn at least one high programming language _e.g._ Python, and one low level programming language, _e.g._ C or C++. 
+You should learn at least one high level programming language _e.g._ Python, and one low level programming language, _e.g._ C or C++. 
 This tutorial assumes knowledge of Python.
 
 #### __0.1. Python__
