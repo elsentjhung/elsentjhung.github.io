@@ -6,6 +6,8 @@ title: Tutorial
 This tutorial is aimed at PhD students and postdocs who are going to do research in Theoretical Soft Condensed Matter Physics and Statistical Physics.
 (This page is work in progress and will be updated periodically.)
 
+---
+
 ### 0. Programming languages
 
 You should learn at least one high programming language _e.g._ Python, and one low level programming language, _e.g._ C or C++. 
@@ -24,6 +26,8 @@ First, programs written in C usually run 10 times faster compared to those writt
 Second, learning low level programming language will also teach you how memory management works in your computer.
 I used this book to learn C: [C Programming Absolute Beginner's Guide] (also available on Amazon).
 
+---
+
 ### 1. Essential mathematics
 
 This section contains several concepts in mathematical methods that might be useful.
@@ -39,6 +43,8 @@ Do you play a musical instrument? do you want to refresh your Python? do you wan
 How to generalize differentiation and integration to a function with more than one variable?
 The pdf of the lecture notes is here: 
 <a href="https://elsentjhung.github.io/files/vector-calculus.pdf">vector calculus lecture notes</a>.
+
+---
 
 ### 2. Binary fluid
 
@@ -57,6 +63,8 @@ The link to the jupyter notebook is here [coarsening notebook].
 
 In this tutorial, we will derive the macroscopic properties of a droplet, such as surface tension, pressure, contact angle _etc_, from the Hamiltonian. 
 The link to the jupyter notebook is here [droplet notebook].
+
+---
 
 ### 3. Brownian motion
 
