@@ -46,12 +46,24 @@ The pdf of the lecture notes is here:
 
 ---
 
-### 2. Binary fluid
+### 2. Brownian motion
+
+Brownian motion is the jittery motion of micron-sized particles in a fluid.
+These particles do not sit still and instead they are being bombarded by even smaller fluid molecules.
+This random kicks from the fluid molecules can be approximated as random force.
+
+#### 2.1. Langevin equation
+
+(Work in progress.)
+
+---
+
+### 3. Binary fluid
 
 In this section, we will start with Cahn-Hilliard equation, which is a model for phase-separation in a binary fluid, _e.g._ water/oil phase separation, liquid/gas phase separation, droplets, and so on. 
 Then we will extend the Cahn-Hiliard equation to include momentum conservation (Navier-Stokes equation) or noise (model B equation).
 
-#### 2.1. Coarsening process
+#### 3.1. Coarsening process
 
 In this tutorial, we will introduce the order parameter, the Hamiltonian and the time evolution of the order parameter. 
 We will also look at the equilibrium phase diagram and the linear stability analysis of the homogenous phase. 
@@ -59,30 +71,29 @@ The link to the jupyter notebook is here [coarsening notebook].
 
 <img src="https://elsentjhung.github.io/figures/coarsening.jpg" alt="drawing" width="800"/>
 
-#### 2.2. Droplet
+#### 3.2. Droplet
 
 In this tutorial, we will derive the macroscopic properties of a droplet, such as surface tension, pressure, contact angle _etc_, from the Hamiltonian. 
 The link to the jupyter notebook is here [droplet notebook].
 
 <img src="https://elsentjhung.github.io/figures/affine-deformation.jpg" alt="drawing" width="800"/>
 
+#### 3.3. Adding noise (equilibrium model B)
+
+When the droplets are very small (~microns), thermal fluctuations become important. For instance, the droplet might undergo a Brownian motion like the colloidal particle described in the previous section. In this tutorial, we will add thermal noise to the Cahn-Hiliard equation and study the statistics of this noisy dynamics.
+The link to the jupyter notebook is here [model B notebook].
+
+<img src="https://elsentjhung.github.io/figures/structure-factor.jpg" alt="drawing" width="800"/>
+
 ---
-
-### 3. Brownian motion
-
-Brownian motion is the jittery motion of micron-sized particles in a fluid.
-These particles do not sit still and instead they are being bombarded by even smaller fluid molecules.
-This random kicks from the fluid molecules can be approximated as random force.
-
-#### 3.1. Langevin equation
-
-(Work in progress.)
 
 [sound wave and Fourier transform notebook]: https://nbviewer.org/github/elsentjhung/sound-wave-analyser/blob/master/sound_analyser.ipynb
 
 [coarsening notebook]: https://nbviewer.org/github/elsentjhung/cahn-hilliard-coarsening/blob/master/coarsening.ipynb
 
 [droplet notebook]: https://nbviewer.org/github/elsentjhung/cahn-hilliard-droplet/blob/master/droplet.ipynb
+
+[model B notebook]: https://nbviewer.org/github/elsentjhung/equilibrium-model-B/blob/master/model_B.ipynb
 
 [Python Crash Course]: https://www.amazon.co.uk/Python-Crash-Course-Hands-Project-Based/dp/1593276036/ref=sr_1_3?crid=3PW3644NJJAFI&keywords=Eric+Matthes+python&qid=1668365923&sprefix=eric+matthes+python%2Caps%2C153&sr=8-3
 
