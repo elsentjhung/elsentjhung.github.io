@@ -44,7 +44,7 @@ How to generalize differentiation and integration to a function with more than o
 The pdf of the lecture notes is here: 
 <a href="https://elsentjhung.github.io/files/vector-calculus.pdf">vector calculus lecture notes</a>.
 
-<img src="https://elsentjhung.github.io/figures/vector-field.jpg" alt="drawing" width="600"/>
+<img src="https://elsentjhung.github.io/figures/vector-field.jpg" alt="drawing" width="500"/>
 
 ---
 
