@@ -15,16 +15,12 @@ This tutorial assumes knowledge of Python.
 
 #### 0.1. Python
 
-Python is a modern object-oriented programming language and widely used in scientific research and other industry such as data science, banking, machine learning, _etc_. 
-Python also has a vast library to do numerical computation and plotting. 
-The book I recommend to learn Python is [Python Crash Course] (available on Amazon).
+Python is a modern object-oriented programming language and widely used in scientific research and other industry such as data science, banking, machine learning, _etc_. Python also has a vast library to do numerical computation and plotting. Reference: [Python Crash Course].
 
 #### 0.2. C or C++
 
-There are two reasons why it's also a good idea to learn C or C++. 
-First, programs written in C usually run 10 times faster compared to those written in Python.
-Second, learning low level programming language will also teach you how memory management works in your computer.
-I used this book to learn C: [C Programming Absolute Beginner's Guide] (also available on Amazon).
+Programs written in C usually run 10 times faster compared to the same programs written in Python.
+C also gives users more low-level control, such as memory management. Reference: [C Programming Absolute Beginner's Guide].
 
 ---
 
@@ -36,7 +32,7 @@ This section contains several concepts in mathematical methods that might be use
 
 Do you play a musical instrument? do you want to refresh your Python? do you want to learn Fourier transform? Then this jupyter notebook will teach you all of the above [sound wave and Fourier transform notebook].
 
-<img src="https://elsentjhung.github.io/figures/Fourier-transform.png" alt="drawing" width="800"/>
+<img src="https://elsentjhung.github.io/figures/Fourier-transform.jpg" alt="drawing" width="800"/>
 
 #### 1.2. Vector calculus
 
@@ -44,7 +40,7 @@ How to generalize differentiation and integration to a function with more than o
 The pdf of the lecture notes is here: 
 <a href="https://elsentjhung.github.io/files/vector-calculus.pdf">vector calculus lecture notes</a>.
 
-<img src="https://elsentjhung.github.io/figures/vector-field.jpg" alt="drawing" width="500"/>
+<img src="https://elsentjhung.github.io/figures/vector-field.jpg" alt="drawing" width="300"/>
 
 ---
 
@@ -52,7 +48,7 @@ The pdf of the lecture notes is here:
 
 Brownian motion is the jittery motion of micron-sized particles in a fluid.
 These particles do not sit still and instead they are being bombarded by even smaller fluid molecules.
-This random kicks from the fluid molecules can be approximated as random force.
+These random kicks from the fluid molecules can be approximated as random force, which we will model below mathematically as a stochastic process.
 
 #### 2.1. Langevin equation
 
@@ -63,7 +59,7 @@ This random kicks from the fluid molecules can be approximated as random force.
 ### 3. Binary fluid
 
 In this section, we will start with Cahn-Hilliard equation, which is a model for phase-separation in a binary fluid, _e.g._ water/oil phase separation, liquid/gas phase separation, droplets, and so on. 
-Then we will extend the Cahn-Hiliard equation to include momentum conservation (Navier-Stokes equation) or noise (model B equation).
+Then we will extend the Cahn-Hiliard equation to include momentum conservation (Cahn-Hilliard-Navier-Stokes equation) and noise (model B equation).
 
 #### 3.1. Coarsening process
 
