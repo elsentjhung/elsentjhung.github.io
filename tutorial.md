@@ -51,7 +51,7 @@ These random kicks from the fluid molecules can be approximated as random force,
 ### 3. Binary fluid
 
 In this section, we will start with the Cahn-Hilliard equation, which is a model for phase-separation in a binary fluid, _e.g._ water/oil phase separation, liquid/gas phase separation, and so on. 
-Then we will extend the Cahn-Hiliard equation to include momentum conservation (Cahn-Hilliard-Navier-Stokes equation) and noise (model B equation).
+Then we will extend the Cahn-Hiliard equation to include momentum conservation (Cahn-Hilliard-Navier-Stokes equation) and noise (model B equation) to model droplet dynamics, droplet evaporation, microfluidics, and so on.
 
 #### 3.1. Cahn-Hiliard equation
 
