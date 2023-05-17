@@ -34,14 +34,6 @@ Do you play a musical instrument? do you want to refresh your Python? do you wan
 
 <img src="https://elsentjhung.github.io/figures/Fourier-transform.jpg" alt="drawing" width="800"/>
 
-#### 1.2. Vector calculus
-
-How to generalize differentiation and integration to a function with more than one variable?
-The pdf of the lecture notes is here: 
-<a href="https://elsentjhung.github.io/files/vector-calculus.pdf">vector calculus lecture notes</a>.
-
-<img src="https://elsentjhung.github.io/figures/vector-field.jpg" alt="drawing" width="300"/>
-
 ---
 
 ### 2. Brownian motion
@@ -58,20 +50,20 @@ These random kicks from the fluid molecules can be approximated as random force,
 
 ### 3. Binary fluid
 
-In this section, we will start with Cahn-Hilliard equation, which is a model for phase-separation in a binary fluid, _e.g._ water/oil phase separation, liquid/gas phase separation, droplets, and so on. 
+In this section, we will start with the Cahn-Hilliard equation, which is a model for phase-separation in a binary fluid, _e.g._ water/oil phase separation, liquid/gas phase separation, and so on. 
 Then we will extend the Cahn-Hiliard equation to include momentum conservation (Cahn-Hilliard-Navier-Stokes equation) and noise (model B equation).
 
-#### 3.1. Coarsening process
+#### 3.1. Cahn-Hiliard equation
 
-In this tutorial, we will introduce the order parameter, the Hamiltonian and the time evolution of the order parameter. 
+In this tutorial, we will introduce the order parameter, the coarse-grained free energy and the time evolution of the order parameter. 
 We will also look at the equilibrium phase diagram and the linear stability analysis of the homogenous phase. 
-The link to the jupyter notebook is here [coarsening notebook].
+The link to the jupyter notebook is here [Cahn-Hiliard notebook].
 
 <img src="https://elsentjhung.github.io/figures/coarsening.jpg" alt="drawing" width="800"/>
 
 #### 3.2. Droplet
 
-In this tutorial, we will derive the macroscopic properties of a droplet, such as surface tension, pressure, contact angle _etc_, from the Hamiltonian. 
+In this tutorial, we will derive the macroscopic properties of a droplet, such as surface tension, pressure, contact angle _etc_, from the free energy. 
 The link to the jupyter notebook is here [droplet notebook].
 
 <img src="https://elsentjhung.github.io/figures/affine-deformation.jpg" alt="drawing" width="800"/>
@@ -87,7 +79,7 @@ The link to the jupyter notebook is here [model B notebook].
 
 [sound wave and Fourier transform notebook]: https://nbviewer.org/github/elsentjhung/sound-wave-analyser/blob/master/sound_analyser.ipynb
 
-[coarsening notebook]: https://nbviewer.org/github/elsentjhung/cahn-hilliard-coarsening/blob/master/coarsening.ipynb
+[Cahn-Hiliard notebook]: https://nbviewer.org/github/elsentjhung/cahn-hilliard-coarsening/blob/master/coarsening.ipynb
 
 [droplet notebook]: https://nbviewer.org/github/elsentjhung/cahn-hilliard-droplet/blob/master/droplet.ipynb
 
