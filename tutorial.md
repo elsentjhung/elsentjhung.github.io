@@ -4,7 +4,6 @@ title: Tutorial
 ---
 
 This tutorial is aimed at PhD students and postdocs who are going to do research in Theoretical Soft Condensed Matter Physics and Statistical Physics. This tutorial assumes some knowledge of Python (see [Python Crash Course] for reference).
-(This page is work in progress and will be updated periodically.)
 
 ---
 
