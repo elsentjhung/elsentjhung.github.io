@@ -3,24 +3,8 @@ layout: page
 title: Tutorial
 ---
 
-This tutorial is aimed at PhD students and postdocs who are going to do research in Theoretical Soft Condensed Matter Physics and Statistical Physics.
+This tutorial is aimed at PhD students and postdocs who are going to do research in Theoretical Soft Condensed Matter Physics and Statistical Physics. This tutorial assumes some knowledge of Python (see [Python Crash Course] for reference).
 (This page is work in progress and will be updated periodically.)
-
----
-
-### 0. Programming languages
-
-You should learn at least one high level programming language _e.g._ Python, and one low level programming language, _e.g._ C or C++. 
-This tutorial assumes knowledge of Python.
-
-#### 0.1. Python
-
-Python is a modern object-oriented programming language and widely used in scientific research and other industry such as data science, banking, machine learning, _etc_. Python also has a vast library to do numerical computation and plotting. Reference: [Python Crash Course].
-
-#### 0.2. C or C++
-
-Programs written in C usually run 10 times faster compared to the same programs written in Python.
-C also gives users more low-level control, such as memory management. Reference: [C Programming Absolute Beginner's Guide].
 
 ---
 
