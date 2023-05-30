@@ -4,9 +4,6 @@ title: Numerical discretization for active scalar field theory
 date: 2020-12-26
 ---
 
-<script src=”https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id=”MathJax-script” async src=”https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-
 ## Active model B+
 
 Here we will consider the active model B+, which is a model for phase-separation in active matter (see [previous post]).
