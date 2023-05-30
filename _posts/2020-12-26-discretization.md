@@ -4,6 +4,18 @@ title: Numerical discretization for active scalar field theory
 date: 2020-12-26
 ---
 
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+      inlineMath: [['$','$']],
+      displayMath: [ ['\[', '\]'] ],
+      processEscapes: true
+    }
+  });
+</script>
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
 ## Active model B+
 
 Here we will consider the active model B+, which is a model for phase-separation in active matter (see [previous post]).
