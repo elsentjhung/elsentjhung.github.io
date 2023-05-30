@@ -9,6 +9,8 @@ date: 2020-12-26
 Here we will consider the active model B+, which is a model for phase-separation in active matter (see [previous post]).
 We consider a scalar order parameter _ϕ(__r__,t)_. The free energy is given by:
 
+$$y = x^2$$
+
 <img src="http://latex.codecogs.com/svg.latex?F[\phi]=\int dV\left\{ -\frac{A}{2}\phi^{2}+\frac{A}{4}\phi^{4}+\frac{K}{2}|\nabla\phi|^{2}\right\}" border="0"/>
 
 The dynamics for active model B+, is given by (see [Tjhung, Nardini, Cates, _PRX_, (2018)]):
