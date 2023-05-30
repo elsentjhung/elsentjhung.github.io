@@ -26,7 +26,6 @@ linkedin_username: elsentjhung
 markdown: kramdown
 kramdown:
   input: GFM
-  math_engine: katex
 theme: minima
 plugins:
   - jekyll-feed
