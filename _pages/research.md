@@ -1,6 +1,9 @@
 ---
-layout: page
+permalink: /research/
 title: Research
+author_profile: true
+redirect_from: 
+  - "/research.html"
 ---
 
 Currently I am interested in the following theoretical research areas:
