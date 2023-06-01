@@ -3,6 +3,9 @@ title: "Statistical Physics of Soft Condensed Matter"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/soft-matter
+venue: "The Open University"
+date: 2023-01-01
+location: "Milton Keynes, United Kingdom"
 ---
 
 This is a graduate course in Statistical Physics and Soft Condensed Matter. This course is aimed at PhD students and postdocs who are going to do research in Theoretical Soft Condensed Matter Physics and Statistical Physics. This course is an evolution of a Part III course in Cambridge of the same name, given by Prof. Cates, but with the added computational aspects. This course assumes some knowledge of Python (see [Python Crash Course] for reference).
@@ -32,21 +35,21 @@ In this tutorial, we will introduce the order parameter, the coarse-grained free
 We will also look at the equilibrium phase diagram and the linear stability analysis of the homogenous phase. 
 The link to the jupyter notebook is here [Cahn-Hiliard notebook].
 
-<img src="https://elsentjhung.github.io/figures/coarsening.jpg" alt="drawing" width="800"/>
+<img src="https://elsentjhung.github.io/images/coarsening.jpg" alt="drawing" width="800"/>
 
 #### 2.2. Droplet
 
 In this tutorial, we will derive the macroscopic properties of a droplet, such as surface tension, pressure, contact angle _etc_, from the free energy. 
 The link to the jupyter notebook is here [droplet notebook].
 
-<img src="https://elsentjhung.github.io/figures/affine-deformation.jpg" alt="drawing" width="800"/>
+<img src="https://elsentjhung.github.io/images/affine-deformation.jpg" alt="drawing" width="800"/>
 
 #### 2.3. Adding noise (equilibrium model B)
 
 When the droplets are very small (~microns), thermal fluctuations become important. For instance, the droplet might undergo a Brownian motion like the colloidal particle described in the previous section. In this tutorial, we will add thermal noise to the Cahn-Hiliard equation and study the statistics of this noisy dynamics.
 The link to the jupyter notebook is here [model B notebook].
 
-<img src="https://elsentjhung.github.io/figures/structure-factor.jpg" alt="drawing" width="800"/>
+<img src="https://elsentjhung.github.io/images/structure-factor.jpg" alt="drawing" width="800"/>
 
 ---
 
