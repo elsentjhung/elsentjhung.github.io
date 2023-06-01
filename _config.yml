@@ -8,13 +8,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Eugene Klyshko"
+title                    : "Elsen Tjhung"
 title_separator          : "-"
-name                     : &name "Eugene Klyshko"
-description              : &description "Research scientist at the University of Toronto"
+name                     : &name "ELsen Tjhung"
+description              : &description "EPSRC Research Fellow"
 url                      : https://klyshko.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "github.com/klyshko/klyshko.github.io"
+repository               : "github.com/elsentjhung/elsentjhung.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true # false # true, false (default)
 words_per_minute         : 200
@@ -81,15 +81,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Eugene Klyshko"
-  avatar           : "eugene.png"
-  bio              : "Computational biophysicist et al."
-  location         : "Toronto, Canada"
+  name             : "Elsen Tjhung"
+  avatar           : "profile.png"
+  bio              : "EPSRC Research Fellow"
+  location         : "United Kingdom"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=TyK96I4AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.co.uk/citations?user=IpPNtcAAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Elsen-Tjhung"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,20 +97,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "klyshko"
+  github           : "elsentjhung"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-7895-8636"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "klyshko_to"
+  twitter          :
   vine             :
   weibo            :
   xing             :
