@@ -4,8 +4,33 @@ excerpt: "My arrangement for guitar solo <br/><img src='/images/cu-tuyet.png'>"
 collection: portfolio
 ---
 
-<iframe src=
-"https://elsentjhung.github.io/files/cu-tuyet.pdf"
-                width="800"
-                height="500">
-</iframe>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>PDF Viewer</title>
+  </head>
+  <body>
+
+    <!--
+      Place the following <div> element where you want the PDF to be displayed in your website. You can change the size using the width and height attributes.
+    -->
+    <div>
+      <object
+        data='https://elsentjhung.github.io/files/cu-tuyet.pdf'
+        type="application/pdf"
+        width="500"
+        height="678"
+      >
+
+        <iframe
+          src='https://elsentjhung.github.io/files/cu-tuyet.pdf'
+          width="500"
+          height="678"
+        >
+        <p>This browser does not support PDF!</p>
+        </iframe>
+      </object>
+    </div>
+
+  </body>
+</html>
