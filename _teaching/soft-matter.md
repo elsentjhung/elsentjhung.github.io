@@ -10,7 +10,7 @@ location: "Milton Keynes, United Kingdom"
 
 This is a graduate course in Statistical Physics and Soft Condensed Matter. This course is aimed at PhD students and postdocs who are going to do research in Theoretical Soft Condensed Matter Physics and Statistical Physics. This course is an evolution of a Part III course in Cambridge of the same name, given by Prof. Cates, but with the added computational aspects. This course assumes some knowledge of Python (see [Python Crash Course] for reference).
 
----
+======
 
 ### 1. Brownian motion
 
