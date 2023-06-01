@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Elsen Tjhung"
 title_separator          : "-"
-name                     : &name "ELsen Tjhung"
+name                     : &name "Elsen Tjhung"
 description              : &description "EPSRC Research Fellow"
-url                      : https://klyshko.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://elsentjhung.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "github.com/elsentjhung/elsentjhung.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,14 +82,14 @@ analytics:
 # Site Author
 author:
   name             : "Elsen Tjhung"
-  avatar           : "profile.png"
+  avatar           : "elsen.jpg"
   bio              : "EPSRC Research Fellow"
   location         : "United Kingdom"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.co.uk/citations?user=IpPNtcAAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=TyK96I4AAAAJ&hl=en"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Elsen-Tjhung"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -104,7 +104,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0002-7895-8636"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
