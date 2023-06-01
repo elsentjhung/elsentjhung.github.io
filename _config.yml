@@ -5,21 +5,22 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+
 # Site Settings
 locale                   : "en-US"
-title                    : "Elsen Tjhung"
+title                    : "Eugene Klyshko"
 title_separator          : "-"
-name                     : &name "Elsen Tjhung"
-description              : &description "Postdoc in Political Science"
-url                      : https://jayrobwilliams.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Eugene Klyshko"
+description              : &description "Research scientist at the University of Toronto"
+url                      : https://klyshko.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jayrobwilliams/jayrobwilliams.github.io"
-teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
-future                   : false
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
+repository               : "github.com/klyshko/klyshko.github.io"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+breadcrumbs              : true # false # true, false (default)
+words_per_minute         : 200
+future                   : true
+read_more                : "enabled" ###"disabled" # if enabled, adds "Read more" links to excerpts
+talkmap_link             : true #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -56,15 +57,13 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-mastodon:
-  username               :
 twitter:
-  username               : 
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  elsen.jpg # Open Graph/Twitter default site image
+og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -75,25 +74,22 @@ social:
 
 # Analytics
 analytics:
-  provider               : "goatcounter" # false (default), "google", "google-universal", "custom", "goatcounter"
+  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : 
-  goatcounter:
-    code		 : jayrobwilliams
+    tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Elsen Tjhung"
-  avatar           : "elsen.jpg"
-  bio              : "EPSRC Research Fellow"
-  location         :
+  name             : "Eugene Klyshko"
+  avatar           : "eugene.png"
+  bio              : "Computational biophysicist et al."
+  location         : "Toronto, Canada"
   employer         :
-  pubmed           :
-  orcid            :
-  googlescholar    : "https://scholar.google.co.uk/citations?user=IpPNtcAAAAAJ&hl=en"
-  email            : "elsen.tjhung@open.ac.uk"
-  researchgate     : "https://www.researchgate.net/profile/Elsen-Tjhung"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=TyK96I4AAAAJ&hl=en"
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -101,21 +97,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "elsentjhung"
-  gitlab           : "elsentjhung"
+  github           : "klyshko"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "elsentjhung"
-  mastodon         : 
+  linkedin         :
+  orcid            : "https://orcid.org/0000-0002-7895-8636"
   pinterest        :
   soundcloud       :
-  stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "klyshko_to"
   vine             :
   weibo            :
   xing             :
@@ -133,8 +128,6 @@ exclude:
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
-  - .Rproj.user
-  - _source
   - .jekyll-assets-cache
   - .sass-cache
   - CHANGELOG
@@ -183,10 +176,13 @@ kramdown:
 
 # Collections
 collections:
+  teaching:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  research:
+  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -232,10 +228,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _research
+  # _portfolio
   - scope:
       path: ""
-      type: research
+      type: portfolio
     values:
       layout: single
       author_profile: true
@@ -260,7 +256,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
