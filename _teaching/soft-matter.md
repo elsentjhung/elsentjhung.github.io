@@ -20,9 +20,7 @@ This course is an evolution of the Part III course in Cambridge of the same name
 
 ## 1. Brownian motion
 
-Brownian motion is the jittery motion of micron-sized particles in a fluid.
-These particles do not sit still and instead they are being bombarded by even smaller fluid molecules.
-These random kicks from the fluid molecules can be approximated as random force, which we will model below mathematically as a stochastic process.
+Brownian motion is the jittery motion of micron-sized particles in a fluid. These particles do not sit still and instead they are being bombarded by even smaller fluid molecules. These random kicks from the fluid molecules can be approximated as random force, which we will model below mathematically as a stochastic process.
 
 ### 1.1. Langevin equation
 
@@ -39,21 +37,21 @@ Then we will extend the Cahn-Hiliard equation to include momentum conservation (
 
 In this tutorial, we will introduce the order parameter, the coarse-grained free energy and the time evolution of the order parameter. 
 We will also look at the equilibrium phase diagram and the linear stability analysis of the homogenous phase. 
-The link to the jupyter notebook is here [Cahn-Hiliard notebook].
+The link to the jupyter notebook is here: [Cahn-Hiliard notebook].
 
 <img src="https://elsentjhung.github.io/images/coarsening.jpg" alt="drawing" width="800"/>
 
 ### 2.2. Droplet
 
 In this tutorial, we will derive the macroscopic properties of a droplet, such as surface tension, pressure, contact angle _etc_, from the free energy. 
-The link to the jupyter notebook is here [droplet notebook].
+The link to the jupyter notebook is here: [droplet notebook].
 
 <img src="https://elsentjhung.github.io/images/affine-deformation.jpg" alt="drawing" width="800"/>
 
 ### 2.3. Adding noise (equilibrium model B)
 
 When the droplets are very small (~microns), thermal fluctuations become important. For instance, the droplet might undergo a Brownian motion like the colloidal particle described in the previous section. In this tutorial, we will add thermal noise to the Cahn-Hiliard equation and study the statistics of this noisy dynamics.
-The link to the jupyter notebook is here [model B notebook].
+The link to the jupyter notebook is here: [model B notebook].
 
 <img src="https://elsentjhung.github.io/images/structure-factor.jpg" alt="drawing" width="800"/>
 
