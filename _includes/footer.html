@@ -1,37 +1,28 @@
-<footer class="site-footer">
+<br/>
+<section id="footer">
+<div class="container-footer">
+  <div class="panel-footer">
+	  <div class="row">
+		<div class="col-sm-4">
+		    <h5>About</h5>	
+            <p>{{ site.affiliation }}</p>
+		</div>
 
-  <div class="wrapper">
+		<div class="col-sm-4">
+		    <h5>Contact</h5>	
+            <p>{{ site.contact }}</p>
+		</div>
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col">
-        <ul class="contact-list">
-          <li>
-            {% if site.author %}
-              {{ site.author | escape }}
-            {% else %}
-              {{ site.title | escape }}
-            {% endif %}
-          </li>
-          {% if site.institute_name %}
-            {% if site.institute_url %}
-            <a href="{{ site.institute_url | escape }}">
-            {% endif %}
-            <li>{{ site.institute_name }}</li>
-            {% if site.institute_url %}
-            </a>
-            {% endif %}
-          {% endif %}
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-      </div>
+		<div class="col-sm-4">
+		    <h5>Coordinates</h5>	
+            <p>{{ site.location }}</p>
+		</div>
+	  </div>
 
-      <div class="footer-col">
-      </div>
-    </div>
+      <center><p>&copy {{ "now" | date: "%Y" }} {{site.title | escape }} </p></center>
+	</div>
   </div>
-  
-  {% if site.footer %}
-  <div class="footer-text">{{ site.footer }}</div>
-  {% endif %}
+</div>
 
-</footer>
+<script src="{{ "/assets/javascript/bootstrap/jquery.min.js" | relative_url }}"></script>
+<script src="{{ "/assets/javascript/bootstrap/bootstrap.bundle.min.js" | relative_url }}"></script>
