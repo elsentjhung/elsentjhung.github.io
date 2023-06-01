@@ -9,8 +9,6 @@ redirect_from:
 ---
 
 
-__EPSRC Research Fellow__
-
 Hello my name is Elsen. I'm an EPSRC Research Fellow in the School of Mathematics and Statistics, The Open University.
 For publications see my [Google Scholar]
 
@@ -22,3 +20,4 @@ Walton Hall, <br/>
 Milton Keynes, MK7 6AA,  <br/>
 United Kingdom <br/> 
 
+[Google Scholar]: https://scholar.google.co.uk/citations?user=IpPNtcAAAAAJ&hl=en
