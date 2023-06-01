@@ -178,7 +178,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  music:
+  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -224,10 +224,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _music
+  # _portfolio
   - scope:
       path: ""
-      type: music
+      type: portfolio
     values:
       layout: single
       author_profile: true
