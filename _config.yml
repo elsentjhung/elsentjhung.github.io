@@ -175,10 +175,10 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  research:
     output: true
     permalink: /:collection/:path/
-  publications:
+  teaching:
     output: true
     permalink: /:collection/:path/
   music:
