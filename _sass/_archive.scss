@@ -6,6 +6,7 @@
   margin-bottom: 2em;
 
   @include breakpoint($medium) {
+    padding-right: $right-sidebar-width-narrow;
     @include span(12 of 12);
   }
 
@@ -60,7 +61,6 @@
 .archive__item-excerpt {
   margin-top: 0;
   font-size: $type-size-6;
-  /* font-size: 0.85em; */
 
   & + p {
     text-indent: 0;
@@ -75,33 +75,11 @@
   }
 }
 
-.archive__item:hover {
-  .archive__item-teaser {
-    box-shadow: 0 0 10px rgba(#000, 0.25);
-  }
-
-  .archive__item-title {
-    text-decoration: underline;
-  }
-}
-
-
 /*
    List view
    ========================================================================== */
 
 .list__item {
-  @include breakpoint($medium) {
-    padding-right: $right-sidebar-width-narrow;
-  }
-
-  @include breakpoint($large) {
-    padding-right: $right-sidebar-width;
-  }
-
-  @include breakpoint($x-large) {
-    padding-right: $right-sidebar-width-wide;
-  }
 
   .page__meta {
     margin: 0 0 4px;

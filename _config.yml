@@ -5,22 +5,21 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-
 # Site Settings
 locale                   : "en-US"
 title                    : "Elsen Tjhung"
 title_separator          : "-"
 name                     : &name "Elsen Tjhung"
-description              : &description "EPSRC Research Fellow"
-url                      : https://elsentjhung.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Postdoc in Political Science"
+url                      : https://jayrobwilliams.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "github.com/elsentjhung/elsentjhung.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : true # false # true, false (default)
-words_per_minute         : 200
-future                   : true
-read_more                : "enabled" ###"disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : true #change to true to add link to talkmap on talks page
+repository               : "jayrobwilliams/jayrobwilliams.github.io"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+breadcrumbs              : false # true, false (default)
+words_per_minute         : 160
+future                   : false
+read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -57,8 +56,10 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
+mastodon:
+  username               :
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -74,9 +75,11 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : "goatcounter" # false (default), "google", "google-universal", "custom", "goatcounter"
   google:
-    tracking_id          :
+    tracking_id          : 
+  goatcounter:
+    code		 : jayrobwilliams
 
 
 # Site Author
@@ -84,12 +87,13 @@ author:
   name             : "Elsen Tjhung"
   avatar           : "elsen.jpg"
   bio              : "EPSRC Research Fellow"
-  location         : "United Kingdom"
+  location         :
   employer         :
-  pubmed           : 
+  pubmed           :
+  orcid            :
   googlescholar    : "https://scholar.google.co.uk/citations?user=IpPNtcAAAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/Elsen-Tjhung"
+  email            : "elsen.tjhung@open.ac.uk"
+  researchgate     : "https://www.researchgate.net/profile/Elsen-Tjhung"
   uri              :
   bitbucket        :
   codepen          :
@@ -98,19 +102,20 @@ author:
   facebook         :
   foursquare       :
   github           : "elsentjhung"
+  gitlab           : "elsentjhung"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : 
+  linkedin         : "elsentjhung"
+  mastodon         : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -128,6 +133,8 @@ exclude:
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
+  - .Rproj.user
+  - _source
   - .jekyll-assets-cache
   - .sass-cache
   - CHANGELOG
@@ -176,13 +183,10 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  research:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -228,10 +232,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _research
   - scope:
       path: ""
-      type: portfolio
+      type: research
     values:
       layout: single
       author_profile: true
@@ -256,7 +260,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
