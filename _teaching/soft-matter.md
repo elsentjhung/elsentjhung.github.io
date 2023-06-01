@@ -10,13 +10,9 @@ location: "Milton Keynes, United Kingdom"
 
 This is a graduate course in Statistical Physics and Soft Condensed Matter. This course is aimed at PhD students and postdocs who are going to do research in Theoretical Soft Condensed Matter Physics and Statistical Physics. 
 
----
-
 ## 0. Introduction
 
 This course is an evolution of the Part III course in Cambridge of the same name, given by Prof. Cates, but with the added computational aspects. This course assumes some knowledge of Python (see [Python Crash Course] for reference). Entire course is written in Jupyter notebook.
-
----
 
 ## 1. Brownian motion
 
@@ -25,8 +21,6 @@ Brownian motion is the jittery motion of micron-sized particles in a fluid. Thes
 ### 1.1. Langevin equation
 
 (Work in progress.)
-
----
 
 ## 2. Binary fluid
 
@@ -54,8 +48,6 @@ When the droplets are very small (~microns), thermal fluctuations become importa
 The link to the jupyter notebook is here: [model B notebook].
 
 <img src="https://elsentjhung.github.io/images/structure-factor.jpg" alt="drawing" width="800"/>
-
----
 
 [sound wave and Fourier transform notebook]: https://nbviewer.org/github/elsentjhung/sound-wave-analyser/blob/master/sound_analyser.ipynb
 
