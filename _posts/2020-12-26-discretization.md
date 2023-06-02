@@ -29,15 +29,15 @@ $$ \partial_{x}\phi = \frac{\frac{1}{280}\phi_{i-4,j} - \frac{4}{105}\phi_{i-3,j
 
 For derivative in (3), we apply (1) twice to ensure detailed balance exactly on the lattice.
 
-For Laplacian in (2) and the gradients in (4), we use the isotropic form of the numerical Laplacian and gradients because we nucleate small bubbles, which is bad for _∇<sup>2</sup>ϕ_ (see [Pooley, Furtado, _PRE_, (2007)]):
+For Laplacian in (2) and the gradients in (4), we use the isotropic form of the numerical Laplacian and gradients because we nucleate small bubbles, which is bad for $\nabla^2\phi$ (see [Pooley, Furtado, _PRE_, (2007)]):
 
-$$ \nabla^{2}\phi=\frac{1}{\Delta x\Delta y}\left[\begin{array}{ccc}
+$$ \nabla^{2}\phi = \frac{1}{\Delta x\Delta y} \left[\begin{array}{ccc}
 -\frac{1}{2} & 2 & -\frac{1}{2}\\
 2 & -6 & 2\\
 -\frac{1}{2} & 2 & -\frac{1}{2}
 \end{array}\right]\phi_{ij} $$
 
-$$ \partial_x\phi=\frac{1}{\Delta x}\left[\begin{array}{ccc}
+$$ \partial_x\phi=\frac{1}{\Delta x} \left[\begin{array}{ccc}
 -\frac{1}{10} & 0 & \frac{1}{10}\\
 -\frac{3}{10} & 0 & \frac{3}{10}\\
 -\frac{1}{10} & 0 & \frac{1}{10}
