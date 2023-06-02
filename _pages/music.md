@@ -6,7 +6,7 @@ redirect_from:
   - "/music.html"
 ---
 
-{% include social-share.html %}
+
 
 ## My arrangement for solo guitar
 
@@ -16,4 +16,6 @@ Cự Tuyệt (Hồ Ngọc Hà) for Solo Guitar. Tab available here: [TAB].
 
 [Tab]: https://elsentjhung.github.io/files/cu-tuyet.pdf
 
+
+{% include social-share.html %}
 
