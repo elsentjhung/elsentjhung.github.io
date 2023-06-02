@@ -6,6 +6,8 @@ redirect_from:
   - "/music.html"
 ---
 
+{% include base_path %}
+
 ## My arrangement for solo guitar
 
 <img src="https://elsentjhung.github.io/images/cu-tuyet.png" alt="drawing" width="600"/>
