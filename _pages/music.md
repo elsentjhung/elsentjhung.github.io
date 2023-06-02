@@ -6,7 +6,7 @@ redirect_from:
   - "/music.html"
 ---
 
-{% include social_share.html %}
+{% include social-share.html %}
 
 ## My arrangement for solo guitar
 
