@@ -6,6 +6,8 @@ tags:
   - active matter
 ---
 
+In this blog post, we will discuss the numerical implementation of active scalar field theory, in particular Active Model B+. Various discretization scheme for spatial derivatives will be discussed.
+
 ## Active model B+
 
 Here we will consider the active model B+, which is a model for phase-separation in active matter (see [previous post]).
@@ -43,7 +45,7 @@ $$ \partial_x\phi=\frac{1}{\Delta x}\left[\begin{array}{ccc}
 
 Source code is available here [source code].
 
-[previous post]: https://elsentjhung.github.io//posts/2019/04/active/active.html
+[previous post]: https://elsentjhung.github.io/posts/2019/04/active/
 [Tjhung, Nardini, Cates, _PRX_, (2018)]: https://journals.aps.org/prx/abstract/10.1103/PhysRevX.8.031080
 [Pooley, Furtado, _PRE_, (2007)]: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.77.046702
 [source code]: https://github.com/elsentjhung/active-model-B-plus
