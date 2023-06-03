@@ -36,8 +36,7 @@ $$ \begin{align} \nabla^{2}\phi &= \frac{1}{\Delta x\Delta y} \left[\begin{array
 2 & -6 & 2\\
 -\frac{1}{2} & 2 & -\frac{1}{2}
 \end{array}\right]\phi_{ij} \\
-
-$$ \partial_x\phi &= \frac{1}{\Delta x} \left[\begin{array}{ccc}
+\partial_x\phi &= \frac{1}{\Delta x} \left[\begin{array}{ccc}
 -\frac{1}{10} & 0 & \frac{1}{10}\\
 -\frac{3}{10} & 0 & \frac{3}{10}\\
 -\frac{1}{10} & 0 & \frac{1}{10}
