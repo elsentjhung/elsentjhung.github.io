@@ -1,3 +1,6 @@
+# Personal website
+
+This folder contains all the source codes for my personal website <https://elsentjhung.github.io>.
 This website is forked from [Academic Pages](https://academicpages.github.io).
 
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
