@@ -49,13 +49,13 @@ The link to the jupyter notebook is here: [model B notebook].
 
 <img src="https://elsentjhung.github.io/images/structure-factor.jpg" alt="drawing" width="800"/>
 
-[sound wave and Fourier transform notebook]: https://nbviewer.org/github/elsentjhung/sound-wave-analyser/blob/master/sound_analyser.ipynb?flush_cache=True
+[sound wave and Fourier transform notebook]: https://nbviewer.org/github/elsentjhung/sound-wave-analyser/blob/master/sound_analyser.ipynb
 
-[Cahn-Hiliard notebook]: https://nbviewer.org/github/elsentjhung/cahn-hilliard-coarsening/blob/master/coarsening.ipynb?flush_cache=True
+[Cahn-Hiliard notebook]: https://nbviewer.org/github/elsentjhung/cahn-hilliard-coarsening/blob/master/coarsening.ipynb
 
-[droplet notebook]: https://nbviewer.org/github/elsentjhung/cahn-hilliard-droplet/blob/master/droplet.ipynb?flush_cache=True
+[droplet notebook]: https://nbviewer.org/github/elsentjhung/cahn-hilliard-droplet/blob/master/droplet.ipynb
 
-[model B notebook]: https://nbviewer.org/github/elsentjhung/equilibrium-model-B/blob/master/model_B.ipynb?flush_cache=True
+[model B notebook]: https://nbviewer.org/github/elsentjhung/equilibrium-model-B/blob/master/model_B.ipynb
 
 [Python Crash Course]: https://www.amazon.co.uk/Python-Crash-Course-Hands-Project-Based/dp/1593276036/ref=sr_1_3?crid=3PW3644NJJAFI&keywords=Eric+Matthes+python&qid=1668365923&sprefix=eric+matthes+python%2Caps%2C153&sr=8-3
 
