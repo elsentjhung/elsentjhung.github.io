@@ -10,7 +10,7 @@ redirect_from:
 
 ## My solo guitar arrangements
 
-You can find scores and TABs below.
+Scores and TABs are available for free below.
 
 <img src="https://elsentjhung.github.io/images/cu-tuyet.png" alt="drawing" width="600"/>
 
