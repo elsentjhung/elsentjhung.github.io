@@ -23,5 +23,7 @@ List of music:
 6. Muộn Màng Là Từ Lúc (Mỹ Tâm), [TAB](https://elsentjhung.github.io/files/muon-mang-la-tu-luc.pdf), [MP3](https://elsentjhung.github.io/files/muon-mang-la-tu-luc.mp3).
 7. Biết Khi Nào Gặp Lại (Mỹ Tâm), [TAB](https://elsentjhung.github.io/files/biet-khi-nao-gap-lai.pdf), [MP3](https://elsentjhung.github.io/files/biet-khi-nao-gap-lai.mp3).
 8. Ai Chung Tình Được Mãi (Đinh Tùng Huy), [TAB](https://elsentjhung.github.io/files/ai-chung-tinh-duoc-mai.pdf), [MP3](https://elsentjhung.github.io/files/ai-chung-tinh-duoc-mai.mp3).
+9. Vì Mẹ Anh Bắt Chia Tay (Miu Lê), [TAB](https://elsentjhung.github.io/files/vi-me-anh-bat-chia-tay.pdf).
+10. Em Bỏ Hút Thuốc Chưa? (Bích Phương), [TAB](https://elsentjhung.github.io/files/em-bo-thuoc-chua.pdf).
 
 {% include social-share.html %}
