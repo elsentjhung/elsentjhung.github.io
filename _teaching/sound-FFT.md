@@ -18,6 +18,6 @@ The entire course is written in Jupyter notebook. The link is here: [sound wave 
 
 <img src="https://elsentjhung.github.io/images/Fourier-transform.jpg" alt="drawing" width="800"/>
 
-[sound wave and Fourier transform notebook]: https://nbviewer.org/github/elsentjhung/sound-wave-analyser/blob/master/sound_analyser.ipynb
+[sound_analyser.ipynb]: https://nbviewer.org/github/elsentjhung/sound-wave-analyser/blob/master/sound_analyser.ipynb
 
-[sound wave and Fourier transform pdf]: https://nbviewer.org/github/elsentjhung/sound-wave-analyser/blob/master/sound_analyser.pdf
+[sound_analyser.pdf]: https://elsentjhung.github.io/files/sound_analyser.pdf
