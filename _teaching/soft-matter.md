@@ -52,17 +52,17 @@ The link to the jupyter notebook is here: [model_B.ipynb]. The PDF version is he
 
 [coarsening.ipynb]: https://nbviewer.org/github/elsentjhung/cahn-hilliard-coarsening/blob/master/coarsening.ipynb
 
-[coarsening.pdf]: https://nbviewer.org/github/elsentjhung/cahn-hilliard-coarsening/blob/master/coarsening.pdf
+[coarsening.pdf]: https://elsentjhung.github.io/files/coarsening.pdf
 
-[droplet.ipynb]: https://nbviewer.org/github/elsentjhung/cahn-hilliard-droplet/blob/master/droplet.ipynb
+[droplet.ipynb]: https://www.github.org/elsentjhung/cahn-hilliard-droplet/blob/master/droplet.ipynb
 
-[droplet.pdf]: https://nbviewer.org/github/elsentjhung/cahn-hilliard-droplet/blob/master/droplet.pdf
+[droplet.pdf]: https://elsentjhung.github.io/files/droplet.pdf
 
-[Noether-Theorem.pdf]: https://nbviewer.org/github/elsentjhung/cahn-hilliard-coarsening/blob/master/Noether-Theorem.pdf
+[Noether-Theorem.pdf]: https://elsentjhung.github.io/files/Noether-Theorem.pdf
 
 [model_B.ipynb]: https://nbviewer.org/github/elsentjhung/equilibrium-model-B/blob/master/model_B.ipynb
 
-[model_B.pdf]: https://nbviewer.org/github/elsentjhung/equilibrium-model-B/blob/master/model_B.pdf
+[model_B.pdf]: https://elsentjhung.github.io/files/model_B.pdf
 
 [Python Crash Course]: https://www.amazon.co.uk/Python-Crash-Course-Hands-Project-Based/dp/1593276036/ref=sr_1_3?crid=3PW3644NJJAFI&keywords=Eric+Matthes+python&qid=1668365923&sprefix=eric+matthes+python%2Caps%2C153&sr=8-3
 
