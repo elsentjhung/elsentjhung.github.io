@@ -14,7 +14,7 @@ Do you play a musical instrument? do you want to refresh your Python? do you wan
 
 This course will introduce you to the basic principles of signal analysis using Fast Fourier Transform (FFT) algorithm. Signal analysis covers everything from audio to electrical signal with applications to image processing, sound engineering, telecommunications, etc. In this course we will focus specifically on audio signal/sound wave, which one can easily produce from a musical intrument or from singing a tune. We will then analyse this audio signal using a powerful mathematical algorithm, called Fast Fourier Transform or FFT, which will allow us to decompose the audio signal in terms of its constituent frequencies. 
 
-The entire course is written in Jupyter notebook. The link is here: [sound wave and Fourier transform notebook]. PDF version is here: [sound wave and Fourier transform pdf].
+The entire course is written in Jupyter notebook. The link is here: [sound_analyser.ipynb]. PDF version is here: [sound_analyser.pdf].
 
 <img src="https://elsentjhung.github.io/images/Fourier-transform.jpg" alt="drawing" width="800"/>
 
