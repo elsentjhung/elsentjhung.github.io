@@ -31,31 +31,38 @@ Then we will extend the Cahn-Hiliard equation to include momentum conservation (
 
 In this tutorial, we will introduce the order parameter, the coarse-grained free energy and the time evolution of the order parameter. 
 We will also look at the equilibrium phase diagram and the linear stability analysis of the homogenous phase. 
-The link to the jupyter notebook is here: [Cahn-Hiliard notebook].
+The link to the jupyter notebook is here: [Cahn-Hiliard notebook]. The PDF version is here: [Cahn-Hiliard pdf]. 
 
 <img src="https://elsentjhung.github.io/images/coarsening.jpg" alt="drawing" width="800"/>
 
 ### 2.2. Droplet
 
 In this tutorial, we will derive the macroscopic properties of a droplet, such as surface tension, pressure, contact angle _etc_, from the free energy. 
-The link to the jupyter notebook is here: [droplet notebook].
+The link to the jupyter notebook is here: [droplet notebook]. The PDF version is here: [droplet pdf]. If one is interested, a short note about Noether's theorem can be found here: [Noether's Theorem pdf].
 
 <img src="https://elsentjhung.github.io/images/affine-deformation.jpg" alt="drawing" width="800"/>
 
 ### 2.3. Adding noise (equilibrium model B)
 
 When the droplets are very small (~microns), thermal fluctuations become important. For instance, the droplet might undergo a Brownian motion like the colloidal particle described in the previous section. In this tutorial, we will add thermal noise to the Cahn-Hiliard equation and study the statistics of this noisy dynamics.
-The link to the jupyter notebook is here: [model B notebook].
+The link to the jupyter notebook is here: [model B notebook]. The PDF version is here: [model B pdf]. 
 
 <img src="https://elsentjhung.github.io/images/structure-factor.jpg" alt="drawing" width="800"/>
 
-[sound wave and Fourier transform notebook]: https://nbviewer.org/github/elsentjhung/sound-wave-analyser/blob/master/sound_analyser.ipynb
 
 [Cahn-Hiliard notebook]: https://nbviewer.org/github/elsentjhung/cahn-hilliard-coarsening/blob/master/coarsening.ipynb
 
+[Cahn-Hiliard pdf]: https://nbviewer.org/github/elsentjhung/cahn-hilliard-coarsening/blob/master/coarsening.pdf
+
 [droplet notebook]: https://nbviewer.org/github/elsentjhung/cahn-hilliard-droplet/blob/master/droplet.ipynb
 
+[droplet pdf]: https://nbviewer.org/github/elsentjhung/cahn-hilliard-droplet/blob/master/droplet.pdf
+
+[Noether's Theorem pdf]: https://nbviewer.org/github/elsentjhung/cahn-hilliard-coarsening/blob/master/Noether-Theorem.pdf
+
 [model B notebook]: https://nbviewer.org/github/elsentjhung/equilibrium-model-B/blob/master/model_B.ipynb
+
+[model B pdf]: https://nbviewer.org/github/elsentjhung/equilibrium-model-B/blob/master/model_B.pdf
 
 [Python Crash Course]: https://www.amazon.co.uk/Python-Crash-Course-Hands-Project-Based/dp/1593276036/ref=sr_1_3?crid=3PW3644NJJAFI&keywords=Eric+Matthes+python&qid=1668365923&sprefix=eric+matthes+python%2Caps%2C153&sr=8-3
 
