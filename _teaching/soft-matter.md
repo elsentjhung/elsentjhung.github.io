@@ -54,7 +54,7 @@ The link to the jupyter notebook is here: [model_B.ipynb]. The PDF version is he
 
 [coarsening.pdf]: https://elsentjhung.github.io/files/coarsening.pdf
 
-[droplet.ipynb]: https://www.github.org/elsentjhung/cahn-hilliard-droplet/blob/master/droplet.ipynb
+[droplet.ipynb]: https://nbviewer.org/github/elsentjhung/cahn-hilliard-droplet/blob/master/droplet.ipynb
 
 [droplet.pdf]: https://elsentjhung.github.io/files/droplet.pdf
 
